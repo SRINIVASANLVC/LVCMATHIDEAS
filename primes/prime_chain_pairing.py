@@ -1,105 +1,141 @@
 import decimal
 from collections import defaultdict
+import matplotlib.pyplot as plt
+import numpy as np
+import os
 
-# Set precision high enough to capture at least 4 digits after decimal
-decimal.getcontext().prec = 10
+decimal.getcontext().prec = 100  # High precision for long decimal cycles
 
-def extract_decimal_triplets(prime):
+def get_group_size(prime):
+    return len(str(prime))  # Group size equals number of digits in prime
+
+def generate_triplets(prime):
+    group_size = get_group_size(prime)
     triplets = []
     for i in range(1, prime):
         frac = decimal.Decimal(i) / decimal.Decimal(prime)
-        digits = str(frac)[2:]  # Get digits after decimal
-        digits = digits.ljust(4, '0')  # Pad if needed
-        first_two = digits[:2]
-        next_two = digits[2:4]
-        triplets.append((f"{i}/{prime}", first_two, next_two))
+        digits = str(frac)[2:].ljust(group_size * 2, '0')
+        first = digits[:group_size]
+        next_ = digits[group_size:group_size * 2]
+        triplets.append((f"{i}/{prime}", first, next_))
     return triplets
 
-def build_linked_chains(triplets):
+def build_chains(triplets):
     chains = []
-    while triplets:
-        chain = {}
-        current = triplets.pop(0)
-        fraction, first_two, next_two = current
-        chain[fraction] = {'first': first_two, 'next': next_two}
+    used = set()
+    lookup = defaultdict(list)
+    for triplet in triplets:
+        lookup[triplet[1]].append(triplet)
 
+    for triplet in triplets:
+        if triplet in used:
+            continue
+        chain = [triplet]
+        used.add(triplet)
+        current = triplet
         while True:
-            match = next((t for t in triplets if t[1] == next_two), None)
-            if match:
-                triplets.remove(match)
-                fraction, first_two, next_two = match
-                chain[fraction] = {'first': first_two, 'next': next_two}
-            else:
+            next_candidates = lookup.get(current[2], [])
+            found = False
+            for candidate in next_candidates:
+                if candidate not in used:
+                    chain.append(candidate)
+                    used.add(candidate)
+                    current = candidate
+                    found = True
+                    break
+            if not found:
                 break
-
         chains.append(chain)
     return chains
 
-def find_complement_pairings(chains, prime):
-    pairings = []
+def resequence_chain(chain, start_fraction):
+    start_index = next((i for i, t in enumerate(chain) if t[0] == start_fraction), 0)
+    return chain[start_index:] + chain[:start_index]
+
+def get_complement(fraction, prime):
+    num = int(fraction.split('/')[0])
+    return f"{prime - num}/{prime}"
+
+def merge_chains_with_complement(chains, prime):
+    merged_cycles = []
     used = set()
 
     for i, chain in enumerate(chains):
-        last_fraction = list(chain.keys())[-1]
-        last_num = int(last_fraction.split('/')[0])
-        complement = prime - last_num
-        complement_key = f"{complement}/{prime}"
+        if i in used:
+            continue
+        base = chain
+        complement_start = get_complement(base[0][0], prime)
 
-        for j, other_chain in enumerate(chains):
-            if i != j and complement_key in other_chain and j not in used:
-                pairings.append((chain, other_chain))
+        for j, other in enumerate(chains):
+            if i != j and complement_start in {t[0] for t in other} and j not in used:
+                reordered_other = resequence_chain(other, complement_start)
+                full_cycle = base + reordered_other
+                merged_cycles.append(full_cycle)
                 used.add(i)
                 used.add(j)
                 break
-
-    return pairings
-
-def reorder_chain_by_flow(chain):
-    if not chain:
-        return {}
-
-    # Start with any node
-    keys = list(chain.keys())
-    ordered = [keys[0]]
-    visited = set(ordered)
-
-    while True:
-        last = ordered[-1]
-        next_val = chain[last]['next']
-        next_key = next((k for k in chain if chain[k]['first'] == next_val and k not in visited), None)
-        if next_key:
-            ordered.append(next_key)
-            visited.add(next_key)
         else:
-            break
+            merged_cycles.append(base)
+            used.add(i)
 
-    # Reconstruct ordered chain
-    return {k: chain[k] for k in ordered}
+    return merged_cycles
 
-def display_chains_and_pairings(prime):
-    print(f"\n🔷 Prime {prime} Modular Chains")
-    triplets = extract_decimal_triplets(prime)
-    chains = build_linked_chains(triplets)
+def run_modular_cycle_audit(primes):
+    results = {}
+    for prime in primes:
+        triplets = generate_triplets(prime)
+        chains = build_chains(triplets)
+        cycles = merge_chains_with_complement(chains, prime)
+        results[prime] = cycles
+    return results
 
-    for i, chain in enumerate(chains, 1):
-        print(f"\nChain {i}:")
-        for k, v in chain.items():
-            print(f"  {k} → {v}")
+def draw_cycle(cycle, prime, cycle_index):
+    n = len(cycle)
+    angles = np.linspace(0, 2 * np.pi, n, endpoint=False)
+    radius = 1.0
+    fig, ax = plt.subplots(figsize=(8, 8))
+    ax.set_aspect('equal')
+    ax.axis('off')
 
-    pairings = find_complement_pairings(chains, prime)
-    
-    print(f"\n🔗 Complement Pairings for Prime {prime}:")
-    for i, (chain1, chain2) in enumerate(pairings, 1):
-        print(f"\nPair {i}:")
-        print("  Chain A:")
-        chain1= reorder_chain_by_flow(chain1)
-        for k, v in chain1.items():
-            print(f"    {k} → {v}")
-        print("  Chain B:")
-        chain2 = reorder_chain_by_flow(chain2)
-        for k, v in chain2.items():
-            print(f"    {k} → {v}")
+    # Plot each node
+    for i in range(n):
+        label, inside, _ = cycle[i]
+        x = radius * np.cos(angles[i])
+        y = radius * np.sin(angles[i])
+        ax.text(x * 1.2, y * 1.2, label, ha='center', va='center', fontsize=10)
+        ax.text(x, y, inside, ha='center', va='center', fontsize=12, weight='bold',
+                bbox=dict(facecolor='white', edgecolor='black', boxstyle='circle'))
+    ax.text(0, 0, str(prime), ha='center', va='center', fontsize=16, weight='bold')
+
+    # Optional: draw chaining lines
+    for i in range(n):
+        x1, y1 = radius * np.cos(angles[i]), radius * np.sin(angles[i])
+        x2, y2 = radius * np.cos(angles[(i + 1) % n]), radius * np.sin(angles[(i + 1) % n])
+        ax.plot([x1, x2], [y1, y2], color='gray', linestyle='--', linewidth=1)
+
+    # Save image
+    total_digits = max(3, len(str(prime)))
+    filename = f"{prime}_c{str(cycle_index + 1).zfill(total_digits)}.png"
+    output_dir = "modular_cycle_images"
+    os.makedirs(output_dir, exist_ok=True)
+    filepath = os.path.join(output_dir, filename)
+    # plt.title(f"Modular Cycle {cycle_index + 1} for Prime {prime}", fontsize=14)
+    plt.savefig(filepath)
+    plt.close()
+
+def display_cycles(results):
+    for prime, cycles in results.items():
+        print(f"\n🔷 Prime {prime} Modular Cycles:")
+        for i, cycle in enumerate(cycles, 1):
+            print(f"\nCycle {i}:")
+            for triplet in cycle:
+                print(f"  {triplet}")
+            draw_cycle(cycle, prime, i - 1)
+
+
 
 if __name__ == "__main__":
-    display_chains_and_pairings(19)
-    display_chains_and_pairings(13)
+    # primes = [103, 107]
+    primes = [7, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+    results = run_modular_cycle_audit(primes)
+    display_cycles(results)
