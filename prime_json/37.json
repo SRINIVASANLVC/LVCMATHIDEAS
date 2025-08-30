@@ -1,0 +1,269 @@
+{
+  "prime": 37,
+  "cycles": [
+    [
+      {
+        "fraction": "1/37",
+        "first": "02",
+        "next": "70",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "26/37",
+        "first": "70",
+        "next": "27",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "10/37",
+        "first": "27",
+        "next": "02",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "36/37",
+        "first": "97",
+        "next": "29",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "11/37",
+        "first": "29",
+        "next": "72",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "27/37",
+        "first": "72",
+        "next": "97",
+        "semantic_role": null,
+        "description": null
+      }
+    ],
+    [
+      {
+        "fraction": "2/37",
+        "first": "05",
+        "next": "40",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "15/37",
+        "first": "40",
+        "next": "54",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "20/37",
+        "first": "54",
+        "next": "05",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "35/37",
+        "first": "94",
+        "next": "59",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "22/37",
+        "first": "59",
+        "next": "45",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "17/37",
+        "first": "45",
+        "next": "94",
+        "semantic_role": null,
+        "description": null
+      }
+    ],
+    [
+      {
+        "fraction": "3/37",
+        "first": "08",
+        "next": "10",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "4/37",
+        "first": "10",
+        "next": "81",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "30/37",
+        "first": "81",
+        "next": "08",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "34/37",
+        "first": "91",
+        "next": "89",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "33/37",
+        "first": "89",
+        "next": "18",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "7/37",
+        "first": "18",
+        "next": "91",
+        "semantic_role": null,
+        "description": null
+      }
+    ],
+    [
+      {
+        "fraction": "5/37",
+        "first": "13",
+        "next": "51",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "19/37",
+        "first": "51",
+        "next": "35",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "13/37",
+        "first": "35",
+        "next": "13",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "32/37",
+        "first": "86",
+        "next": "48",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "18/37",
+        "first": "48",
+        "next": "64",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "24/37",
+        "first": "64",
+        "next": "86",
+        "semantic_role": null,
+        "description": null
+      }
+    ],
+    [
+      {
+        "fraction": "6/37",
+        "first": "16",
+        "next": "21",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "8/37",
+        "first": "21",
+        "next": "62",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "23/37",
+        "first": "62",
+        "next": "16",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "31/37",
+        "first": "83",
+        "next": "78",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "29/37",
+        "first": "78",
+        "next": "37",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "14/37",
+        "first": "37",
+        "next": "83",
+        "semantic_role": null,
+        "description": null
+      }
+    ],
+    [
+      {
+        "fraction": "9/37",
+        "first": "24",
+        "next": "32",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "12/37",
+        "first": "32",
+        "next": "43",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "16/37",
+        "first": "43",
+        "next": "24",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "28/37",
+        "first": "75",
+        "next": "67",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "25/37",
+        "first": "67",
+        "next": "56",
+        "semantic_role": null,
+        "description": null
+      },
+      {
+        "fraction": "21/37",
+        "first": "56",
+        "next": "75",
+        "semantic_role": null,
+        "description": null
+      }
+    ]
+  ]
+}

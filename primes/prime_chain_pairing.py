@@ -3,6 +3,9 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
 import os
+from sympy import primerange
+import json
+
 
 decimal.getcontext().prec = 100  # High precision for long decimal cycles
 
@@ -116,7 +119,7 @@ def draw_cycle(cycle, prime, cycle_index):
     # Save image
     total_digits = max(3, len(str(prime)))
     filename = f"{prime}_c{str(cycle_index + 1).zfill(total_digits)}.png"
-    output_dir = "modular_cycle_images"
+    output_dir = "prime_cycle_images"
     os.makedirs(output_dir, exist_ok=True)
     filepath = os.path.join(output_dir, filename)
     # plt.title(f"Modular Cycle {cycle_index + 1} for Prime {prime}", fontsize=14)
@@ -128,14 +131,44 @@ def display_cycles(results):
         print(f"\n🔷 Prime {prime} Modular Cycles:")
         for i, cycle in enumerate(cycles, 1):
             print(f"\nCycle {i}:")
-            for triplet in cycle:
-                print(f"  {triplet}")
+            # for triplet in cycle:
+            #     print(f"  {triplet}")
             draw_cycle(cycle, prime, i - 1)
 
 
+def save_prime_cycles_to_json(results, output_dir="prime_json"):
+    os.makedirs(output_dir, exist_ok=True)
+    for prime, cycles in results.items():
+        data = {
+            "prime": prime,
+            "cycles": [
+                [
+                    {
+                        "fraction": frac,
+                        "first": first,
+                        "next": next_,
+                        "semantic_role": None,
+                        "description": None
+                    }
+                    for frac, first, next_ in cycle
+                ]
+                for cycle in cycles
+            ]
+        }
+        filename = f"{prime}.json"
+        filepath = os.path.join(output_dir, filename)
+        with open(filepath, "w") as f:
+            json.dump(data, f, indent=2)
 
 if __name__ == "__main__":
     # primes = [103, 107]
-    primes = [7, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+    # primes = [7, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+    # primes = list(primerange(5001, 6000))
+
+
+    # primes = [13]  
+    primes = [73 , 101  , 37 , 137 , 41 , 211 , 241 , 271 , 127 , 239 , 757 , 89 , 53 , 79 , 157 , 859 , 61 , 353 , 449 , 641 , 103 , 613 , 109]
     results = run_modular_cycle_audit(primes)
-    display_cycles(results)
+    print(results)
+    save_prime_cycles_to_json(results)
+    display_cycles(results)-``
