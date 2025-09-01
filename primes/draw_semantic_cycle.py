@@ -39,10 +39,14 @@ def draw_semantic_cycle(ideas, central_idea, title="Semantic Cycle"):
     plt.close()
 
 # Example usage
-central_idea = "Alchemical Octagram"
+central_idea = "Centra concept1"
 ideas = [
     "Calcination", "Dissolution", "Separation", "Conjunction",
     "Fermentation", "Distillation", "Coagulation", "Sublimation"
+]
+
+ ideas = [
+    "Bliss - Ānanda (bliss, joy) Harṣa (delight, elation) Sukha (comfort, happiness)  ", "Knowledge - Jñāna (knowledge), Vijñāna (discriminative wisdom) , Medhā (intellect, memory) "
 ]
 
 draw_semantic_cycle(ideas, central_idea)
