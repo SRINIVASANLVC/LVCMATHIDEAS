@@ -1,271 +1,271 @@
-Valid Path,Path Number,Destination Coordinate,Destination Index,Fusion Lineage(s),Final Glyph(s),,
-u,1,"(0, 0, 1)",1,u,u,,
-uu,2,"(0, 0, 2)",2,U,U,,
-a,3,"(0, 1, 0)",3,a,a,,
-ua,4,"(0, 1, 1)",4,wa,wa,,
-au,5,"(0, 1, 1)",4,o,o,,
-auu,6,"(0, 1, 2)",5,"aU, ou","aU, ou",,
-uua,7,"(0, 1, 2)",5,"Ua, uwa","Ua, uwa",,
-uau,8,"(0, 1, 2)",5,"wau, wo","wau, wo",,
-aa,9,"(0, 2, 0)",6,A,A,,
-aua,10,"(0, 2, 1)",7,"awa, oa","awa, oa",,
-aau,11,"(0, 2, 1)",7,"Au, ao","Au, ao",,
-uaa,12,"(0, 2, 1)",7,"uA, waa","uA, waa",,
-auua,13,"(0, 2, 2)",8,"aUa, owa","aUa, owa",,
-uaau,14,"(0, 2, 2)",8,"uAu, wao","uAu, wao",,
-auau,15,"(0, 2, 2)",8,"O, awau, awo","O, awau, awo",,
-uaua,16,"(0, 2, 2)",8,"wawa, woa","wawa, woa",,
-uuaa,17,"(0, 2, 2)",8,"UA, uwaa","UA, uwaa",,
-aauu,18,"(0, 2, 2)",8,"AU, aou","AU, aou",,
-i,19,"(1, 0, 0)",9,i,i,,
-iu,20,"(1, 0, 1)",10,yu,yu,,
-ui,21,"(1, 0, 1)",10,wi,wi,,
-iuu,22,"(1, 0, 2)",11,"iU, yuu","iU, yuu",,
-uui,23,"(1, 0, 2)",11,"Ui, uwi","Ui, uwi",,
-uiu,24,"(1, 0, 2)",11,"uyu, wiu","uyu, wiu",,
-ai,25,"(1, 1, 0)",12,e,e,,
-ia,26,"(1, 1, 0)",12,ya,ya,,
-uia,27,"(1, 1, 1)",13,"uya, wia","uya, wia",,
-uai,28,"(1, 1, 1)",13,"wai, we","wai, we",,
-iau,29,"(1, 1, 1)",13,"yau, yo","yau, yo",,
-aui,30,"(1, 1, 1)",13,"awi, oi","awi, oi",,
-aiu,31,"(1, 1, 1)",13,"ayu, eu","ayu, eu",,
-iua,32,"(1, 1, 1)",13,"iwa, yua","iwa, yua",,
-uuai,33,"(1, 1, 2)",14,"Ue, uwai, uwe","Ue, uwai, uwe",,
-auui,34,"(1, 1, 2)",14,"aUi, owi","aUi, owi",,
-iauu,35,"(1, 1, 2)",14,"yaU, you","yaU, you",,
-iuau,36,"(1, 1, 2)",14,"iwau, iwo, yuo","iwau, iwo, yuo",,
-iuua,37,"(1, 1, 2)",14,"iUa, yuwa","iUa, yuwa",,
-uiau,38,"(1, 1, 2)",14,"uyau, uyo, wio","uyau, uyo, wio",,
-uaiu,39,"(1, 1, 2)",14,"wayu, weu","wayu, weu",,
-uiua,40,"(1, 1, 2)",14,"uyua, wiwa","uyua, wiwa",,
-aiuu,41,"(1, 1, 2)",14,"ayuu, eU","ayuu, eU",,
-uuia,42,"(1, 1, 2)",14,"Uya, uwia","Uya, uwia",,
-uaui,43,"(1, 1, 2)",14,"wawi, woi","wawi, woi",,
-auiu,44,"(1, 1, 2)",14,"awiu, oyu","awiu, oyu",,
-iaa,45,"(1, 2, 0)",15,"iA, yaa","iA, yaa",,
-aia,46,"(1, 2, 0)",15,"aya, ea","aya, ea",,
-aai,47,"(1, 2, 0)",15,"Ai, ae","Ai, ae",,
-iaau,48,"(1, 2, 1)",16,"iAu, yao","iAu, yao",,
-iaua,49,"(1, 2, 1)",16,"yawa, yoa","yawa, yoa",,
-iuaa,50,"(1, 2, 1)",16,"iwaa, yuA","iwaa, yuA",,
-aaui,51,"(1, 2, 1)",16,"Awi, aoi","Awi, aoi",,
-uiaa,52,"(1, 2, 1)",16,"uyaa, wiA","uyaa, wiA",,
-uaia,53,"(1, 2, 1)",16,"waya, wea","waya, wea",,
-aaiu,54,"(1, 2, 1)",16,"Ayu, aeu","Ayu, aeu",,
-aiua,55,"(1, 2, 1)",16,"ayua, ewa","ayua, ewa",,
-auia,56,"(1, 2, 1)",16,"awia, oya","awia, oya",,
-aiau,57,"(1, 2, 1)",16,"ayau, ayo, eo","ayau, ayo, eo",,
-uaai,58,"(1, 2, 1)",16,"uAi, wae","uAi, wae",,
-auai,59,"(1, 2, 1)",16,"awai, awe, oe","awai, awe, oe",,
-aiauu,60,"(1, 2, 2)",17,"ayaU, ayou, eaU, eou","ayaU, ayou, eaU, eou",,
-iauau,61,"(1, 2, 2)",17,"iO, yawau, yawo, yoo","iO, yawau, yawo, yoo",,
-uauia,62,"(1, 2, 2)",17,"wauya, wawia, woya","wauya, wawia, woya",,
-auaui,63,"(1, 2, 2)",17,"Oi, awawi, awoi, oawi","Oi, awawi, awoi, oawi",,
-auuia,64,"(1, 2, 2)",17,"aUya, ouya, owia","aUya, ouya, owia",,
-uaaui,65,"(1, 2, 2)",17,"uAwi, waawi, waoi","uAwi, waawi, waoi",,
-uauai,66,"(1, 2, 2)",17,"wawai, wawe, woe","wawai, wawe, woe",,
-iaauu,67,"(1, 2, 2)",17,"iAU, yaaU, yaou","iAU, yaaU, yaou",,
-iauua,68,"(1, 2, 2)",17,"yaUa, yauwa, yowa","yaUa, yauwa, yowa",,
-auuai,69,"(1, 2, 2)",17,"aUe, owai, owe","aUe, owai, owe",,
-auiau,70,"(1, 2, 2)",17,"awio, oyau, oyo","awio, oyau, oyo",,
-auiua,71,"(1, 2, 2)",17,"awiwa, oiwa, oyua","awiwa, oiwa, oyua",,
-uuiaa,72,"(1, 2, 2)",17,"UiA, Uyaa, uwiA","UiA, Uyaa, uwiA",,
-aiuau,73,"(1, 2, 2)",17,"ayuo, ewau, ewo","ayuo, ewau, ewo",,
-uiuaa,74,"(1, 2, 2)",17,"uyuA, wiuA, wiwaa","uyuA, wiuA, wiwaa",,
-uiaau,75,"(1, 2, 2)",17,"uyao, wiAu, wiao","uyao, wiAu, wiao",,
-auaiu,76,"(1, 2, 2)",17,"awayu, aweu, oayu, oeu","awayu, aweu, oayu, oeu",,
-uuaia,77,"(1, 2, 2)",17,"Uaya, Uea, uwaya, uwea","Uaya, Uea, uwaya, uwea",,
-aauiu,78,"(1, 2, 2)",17,"Auyu, Awiu, aoyu","Auyu, Awiu, aoyu",,
-iuaau,79,"(1, 2, 2)",17,"iwao, yuAu, yuao","iwao, yuAu, yuao",,
-iuuaa,80,"(1, 2, 2)",17,"iUA, yuuA, yuwaa","iUA, yuuA, yuwaa",,
-aiuua,81,"(1, 2, 2)",17,"ayuwa, eUa, euwa","ayuwa, eUa, euwa",,
-uiaua,82,"(1, 2, 2)",17,"uyawa, uyoa, wiawa, wioa","uyawa, uyoa, wiawa, wioa",,
-uaiau,83,"(1, 2, 2)",17,"wayau, wayo, weo","wayau, wayo, weo",,
-iuaua,84,"(1, 2, 2)",17,"iwawa, iwoa, yuawa, yuoa","iwawa, iwoa, yuawa, yuoa",,
-aauui,85,"(1, 2, 2)",17,"AUi, Auwi, aowi","AUi, Auwi, aowi",,
-uuaai,86,"(1, 2, 2)",17,"UAi, Uae, uwae","UAi, Uae, uwae",,
-uaaiu,87,"(1, 2, 2)",17,"uAyu, waayu, waeu","uAyu, waayu, waeu",,
-aaiuu,88,"(1, 2, 2)",17,"AiU, Ayuu, aeU","AiU, Ayuu, aeU",,
-uaiua,89,"(1, 2, 2)",17,"waiwa, wayua, wewa","waiwa, wayua, wewa",,
-ii,90,"(2, 0, 0)",18,I,I,,
-iiu,91,"(2, 0, 1)",19,"Iu, iyu","Iu, iyu",,
-iui,92,"(2, 0, 1)",19,"iwi, yui","iwi, yui",,
-uii,93,"(2, 0, 1)",19,"uI, wii","uI, wii",,
-iuui,94,"(2, 0, 2)",20,"iUi, yuwi","iUi, yuwi",,
-iiuu,95,"(2, 0, 2)",20,"IU, iyuu","IU, iyuu",,
-uiiu,96,"(2, 0, 2)",20,"uIu, wiyu","uIu, wiyu",,
-uiui,97,"(2, 0, 2)",20,"uyui, wiwi","uyui, wiwi",,
-uuii,98,"(2, 0, 2)",20,"UI, uwii","UI, uwii",,
-iuiu,99,"(2, 0, 2)",20,"iwiu, yuyu","iwiu, yuyu",,
-aii,100,"(2, 1, 0)",21,"aI, ei","aI, ei",,
-iia,101,"(2, 1, 0)",21,"Ia, iya","Ia, iya",,
-iai,102,"(2, 1, 0)",21,"yai, ye","yai, ye",,
-iuai,103,"(2, 1, 1)",22,"iwai, iwe, yue","iwai, iwe, yue",,
-iaiu,104,"(2, 1, 1)",22,"yayu, yeu","yayu, yeu",,
-iaui,105,"(2, 1, 1)",22,"yawi, yoi","yawi, yoi",,
-uaii,106,"(2, 1, 1)",22,"waI, wei","waI, wei",,
-iiau,107,"(2, 1, 1)",22,"Io, iyau, iyo","Io, iyau, iyo",,
-iiua,108,"(2, 1, 1)",22,"Iwa, iyua","Iwa, iyua",,
-uiai,109,"(2, 1, 1)",22,"uyai, uye, wie","uyai, uye, wie",,
-auii,110,"(2, 1, 1)",22,"awii, oI","awii, oI",,
-aiui,111,"(2, 1, 1)",22,"ayui, ewi","ayui, ewi",,
-uiia,112,"(2, 1, 1)",22,"uIa, wiya","uIa, wiya",,
-aiiu,113,"(2, 1, 1)",22,"aIu, eyu","aIu, eyu",,
-iuia,114,"(2, 1, 1)",22,"iwia, yuya","iwia, yuya",,
-auiui,115,"(2, 1, 2)",23,"awiwi, oiwi, oyui","awiwi, oiwi, oyui",,
-uuiai,116,"(2, 1, 2)",23,"Uyai, Uye, uwie","Uyai, Uye, uwie",,
-uiaiu,117,"(2, 1, 2)",23,"uyayu, uyeu, wiayu, wieu","uyayu, uyeu, wiayu, wieu",,
-iuiua,118,"(2, 1, 2)",23,"iwiwa, yuiwa, yuyua","iwiwa, yuiwa, yuyua",,
-iaiuu,119,"(2, 1, 2)",23,"yaiU, yayuu, yeU","yaiU, yayuu, yeU",,
-aiiuu,120,"(2, 1, 2)",23,"aIU, eiU, eyuu","aIU, eiU, eyuu",,
-iuaiu,121,"(2, 1, 2)",23,"iwayu, iweu, yuayu, yueu","iwayu, iweu, yuayu, yueu",,
-uiiau,122,"(2, 1, 2)",23,"uIo, wiyau, wiyo","uIo, wiyau, wiyo",,
-iuuia,123,"(2, 1, 2)",23,"iUya, yuuya, yuwia","iUya, yuuya, yuwia",,
-uiuai,124,"(2, 1, 2)",23,"uyue, wiwai, wiwe","uyue, wiwai, wiwe",,
-uiiua,125,"(2, 1, 2)",23,"uIwa, wiiwa, wiyua","uIwa, wiiwa, wiyua",,
-uuaii,126,"(2, 1, 2)",23,"UaI, Uei, uwaI, uwei","UaI, Uei, uwaI, uwei",,
-iuuai,127,"(2, 1, 2)",23,"iUe, yuwai, yuwe","iUe, yuwai, yuwe",,
-aiuui,128,"(2, 1, 2)",23,"ayuwi, eUi, euwi","ayuwi, eUi, euwi",,
-uaiiu,129,"(2, 1, 2)",23,"waIu, waiyu, weyu","waIu, waiyu, weyu",,
-uiaui,130,"(2, 1, 2)",23,"uyawi, uyoi, wiawi, wioi","uyawi, uyoi, wiawi, wioi",,
-iiuau,131,"(2, 1, 2)",23,"Iwau, Iwo, iyuo","Iwau, Iwo, iyuo",,
-iiuua,132,"(2, 1, 2)",23,"IUa, Iuwa, iyuwa","IUa, Iuwa, iyuwa",,
-uiuia,133,"(2, 1, 2)",23,"uyuya, wiuya, wiwia","uyuya, wiuya, wiwia",,
-uuiia,134,"(2, 1, 2)",23,"UIa, Uiya, uwiya","UIa, Uiya, uwiya",,
-iuaui,135,"(2, 1, 2)",23,"iwawi, iwoi, yuawi, yuoi","iwawi, iwoi, yuawi, yuoi",,
-iauiu,136,"(2, 1, 2)",23,"yauyu, yawiu, yoyu","yauyu, yawiu, yoyu",,
-iiauu,137,"(2, 1, 2)",23,"IaU, Iou, iyaU, iyou","IaU, Iou, iyaU, iyou",,
-uaiui,138,"(2, 1, 2)",23,"waiwi, wayui, wewi","waiwi, wayui, wewi",,
-uauii,139,"(2, 1, 2)",23,"wauI, wawii, woI","wauI, wawii, woI",,
-auiiu,140,"(2, 1, 2)",23,"awiyu, oIu, oiyu","awiyu, oIu, oiyu",,
-auuii,141,"(2, 1, 2)",23,"aUI, ouI, owii","aUI, ouI, owii",,
-aiuiu,142,"(2, 1, 2)",23,"ayuyu, euyu, ewiu","ayuyu, euyu, ewiu",,
-iuiau,143,"(2, 1, 2)",23,"iwio, yuyau, yuyo","iwio, yuyau, yuyo",,
-iauui,144,"(2, 1, 2)",23,"yaUi, yauwi, yowi","yaUi, yauwi, yowi",,
-iiaa,145,"(2, 2, 0)",24,"IA, iyaa","IA, iyaa",,
-aaii,146,"(2, 2, 0)",24,"AI, aei","AI, aei",,
-aiia,147,"(2, 2, 0)",24,"aIa, eya","aIa, eya",,
-aiai,148,"(2, 2, 0)",24,"E, ayai, aye","E, ayai, aye",,
-iaai,149,"(2, 2, 0)",24,"iAi, yae","iAi, yae",,
-iaia,150,"(2, 2, 0)",24,"yaya, yea","yaya, yea",,
-uiaai,151,"(2, 2, 1)",25,"uyae, wiAi, wiae","uyae, wiAi, wiae",,
-auaii,152,"(2, 2, 1)",25,"awaI, awei, oaI, oei","awaI, awei, oaI, oei",,
-iuaai,153,"(2, 2, 1)",25,"iwae, yuAi, yuae","iwae, yuAi, yuae",,
-aiaiu,154,"(2, 2, 1)",25,"Eu, ayayu, ayeu, eayu","Eu, ayayu, ayeu, eayu",,
-aauii,155,"(2, 2, 1)",25,"AuI, Awii, aoI","AuI, Awii, aoI",,
-iiaau,156,"(2, 2, 1)",25,"IAu, Iao, iyao","IAu, Iao, iyao",,
-uaiia,157,"(2, 2, 1)",25,"waIa, waiya, weya","waIa, waiya, weya",,
-iiuaa,158,"(2, 2, 1)",25,"IuA, Iwaa, iyuA","IuA, Iwaa, iyuA",,
-uaiai,159,"(2, 2, 1)",25,"uE, wayai, waye, wee","uE, wayai, waye, wee",,
-uaaii,160,"(2, 2, 1)",25,"uAI, waaI, waei","uAI, waaI, waei",,
-iaaiu,161,"(2, 2, 1)",25,"iAyu, yaayu, yaeu","iAyu, yaayu, yaeu",,
-aaiui,162,"(2, 2, 1)",25,"Aiwi, Ayui, aewi","Aiwi, Ayui, aewi",,
-iauia,163,"(2, 2, 1)",25,"yauya, yawia, yoya","yauya, yawia, yoya",,
-iiaua,164,"(2, 2, 1)",25,"Iawa, Ioa, iyawa, iyoa","Iawa, Ioa, iyawa, iyoa",,
-aiaui,165,"(2, 2, 1)",25,"ayawi, ayoi, eawi, eoi","ayawi, ayoi, eawi, eoi",,
-iaiau,166,"(2, 2, 1)",25,"yayau, yayo, yeo","yayau, yayo, yeo",,
-iauai,167,"(2, 2, 1)",25,"yawai, yawe, yoe","yawai, yawe, yoe",,
-auiia,168,"(2, 2, 1)",25,"awiya, oIa, oiya","awiya, oIa, oiya",,
-aiuia,169,"(2, 2, 1)",25,"ayuya, euya, ewia","ayuya, euya, ewia",,
-iaaui,170,"(2, 2, 1)",25,"iAwi, yaawi, yaoi","iAwi, yaawi, yaoi",,
-iaiua,171,"(2, 2, 1)",25,"yaiwa, yayua, yewa","yaiwa, yayua, yewa",,
-iuiaa,172,"(2, 2, 1)",25,"iwiA, yuiA, yuyaa","iwiA, yuiA, yuyaa",,
-auiai,173,"(2, 2, 1)",25,"awie, oyai, oye","awie, oyai, oye",,
-uiaia,174,"(2, 2, 1)",25,"uyaya, uyea, wiaya, wiea","uyaya, uyea, wiaya, wiea",,
-aiiau,175,"(2, 2, 1)",25,"aIo, eyau, eyo","aIo, eyau, eyo",,
-aiiua,176,"(2, 2, 1)",25,"aIwa, eiwa, eyua","aIwa, eiwa, eyua",,
-iuaia,177,"(2, 2, 1)",25,"iwaya, iwea, yuaya, yuea","iwaya, iwea, yuaya, yuea",,
-uiiaa,178,"(2, 2, 1)",25,"uIA, wiiA, wiyaa","uIA, wiiA, wiyaa",,
-aaiiu,179,"(2, 2, 1)",25,"AIu, Aiyu, aeyu","AIu, Aiyu, aeyu",,
-aiuai,180,"(2, 2, 1)",25,"ayue, ewai, ewe","ayue, ewai, ewe",,
-iaiauu,181,"(2, 2, 2)",26,"yayaU, yayou, yeaU, yeou","yayaU, yayou, yeaU, yeou",,
-uiaaui,182,"(2, 2, 2)",26,"uyaawi, uyaoi, wiAwi, wiaoi","uyaawi, uyaoi, wiAwi, wiaoi",,
-iiuaau,183,"(2, 2, 2)",26,"IuAu, Iwao, iyuAu, iyuao","IuAu, Iwao, iyuAu, iyuao",,
-iuuaai,184,"(2, 2, 2)",26,"iUAi, iUae, yuuAi, yuwae","iUAi, iUae, yuuAi, yuwae",,
-iaauui,185,"(2, 2, 2)",26,"iAUi, iAuwi, yaaUi, yaowi","iAUi, iAuwi, yaaUi, yaowi",,
-uiiuaa,186,"(2, 2, 2)",26,"uIuA, uIwaa, wiiwaa, wiyuA","uIuA, uIwaa, wiiwaa, wiyuA",,
-aiuuia,187,"(2, 2, 2)",26,"ayuuya, ayuwia, eUya, euwia","ayuuya, ayuwia, eUya, euwia",,
-uuaaii,188,"(2, 2, 2)",26,"UAI, Uaei, uwaaI, uwaei","UAI, Uaei, uwaaI, uwaei",,
-auuaii,189,"(2, 2, 2)",26,"aUaI, aUei, owaI, owei","aUaI, aUei, owaI, owei",,
-iaiuua,190,"(2, 2, 2)",26,"yaiUa, yayuwa, yeUa, yeuwa","yaiUa, yayuwa, yeUa, yeuwa",,
-iiauau,191,"(2, 2, 2)",26,"IO, Iawau, Iawo, iyawau, iyawo, iyoo","IO, Iawau, Iawo, iyawau, iyawo, iyoo",,
-auiuai,192,"(2, 2, 2)",26,"awiwai, awiwe, oiwai, oiwe, oyue","awiwai, awiwe, oiwai, oiwe, oyue",,
-aiuiua,193,"(2, 2, 2)",26,"ayuiwa, ayuyua, euyua, ewiwa","ayuiwa, ayuyua, euyua, ewiwa",,
-iuauai,194,"(2, 2, 2)",26,"iwawai, iwawe, iwoe, yuawai, yuawe, yuoe","iwawai, iwawe, iwoe, yuawai, yuawe, yuoe",,
-uuiaia,195,"(2, 2, 2)",26,"Uyaya, Uyea, uwiaya, uwiea","Uyaya, Uyea, uwiaya, uwiea",,
-iuiuaa,196,"(2, 2, 2)",26,"iwiuA, iwiwaa, yuiwaa, yuyuA","iwiuA, iwiwaa, yuiwaa, yuyuA",,
-auiaui,197,"(2, 2, 2)",26,"awiawi, awioi, oyawi, oyoi","awiawi, awioi, oyawi, oyoi",,
-uaiuai,198,"(2, 2, 2)",26,"waiwai, waiwe, wayue, wewai, wewe","waiwai, waiwe, wayue, wewai, wewe",,
-uiiaua,199,"(2, 2, 2)",26,"uIawa, uIoa, wiyawa, wiyoa","uIawa, uIoa, wiyawa, wiyoa",,
-auaiui,200,"(2, 2, 2)",26,"awaiwi, awayui, awewi, oayui, oewi","awaiwi, awayui, awewi, oayui, oewi",,
-iaauiu,201,"(2, 2, 2)",26,"iAuyu, iAwiu, yaawiu, yaoyu","iAuyu, iAwiu, yaawiu, yaoyu",,
-aiauiu,202,"(2, 2, 2)",26,"ayauyu, ayawiu, ayoyu, eawiu, eoyu","ayauyu, ayawiu, ayoyu, eawiu, eoyu",,
-uauaii,203,"(2, 2, 2)",26,"wawaI, wawei, woaI, woei","wawaI, wawei, woaI, woei",,
-iuaiau,204,"(2, 2, 2)",26,"iwayau, iwayo, iweo, yuayau, yuayo, yueo","iwayau, iwayo, iweo, yuayau, yuayo, yueo",,
-iauuai,205,"(2, 2, 2)",26,"yaUe, yauwai, yauwe, yowai, yowe","yaUe, yauwai, yauwe, yowai, yowe",,
-uiuaai,206,"(2, 2, 2)",26,"uyuAi, uyuae, wiuAi, wiwae","uyuAi, uyuae, wiuAi, wiwae",,
-iiuaua,207,"(2, 2, 2)",26,"Iwawa, Iwoa, iyuawa, iyuoa","Iwawa, Iwoa, iyuawa, iyuoa",,
-iuuiaa,208,"(2, 2, 2)",26,"iUiA, iUyaa, yuuyaa, yuwiA","iUiA, iUyaa, yuuyaa, yuwiA",,
-iuiaau,209,"(2, 2, 2)",26,"iwiAu, iwiao, yuiAu, yuyao","iwiAu, iwiao, yuiAu, yuyao",,
-auuiia,210,"(2, 2, 2)",26,"aUIa, aUiya, ouIa, owiya","aUIa, aUiya, ouIa, owiya",,
-aiuuai,211,"(2, 2, 2)",26,"ayuwai, ayuwe, eUe, euwai, euwe","ayuwai, ayuwe, eUe, euwai, euwe",,
-aaiiuu,212,"(2, 2, 2)",26,"AIU, Aiyuu, aeiU, aeyuu","AIU, Aiyuu, aeiU, aeyuu",,
-aiauui,213,"(2, 2, 2)",26,"ayaUi, ayauwi, ayowi, eaUi, eowi","ayaUi, ayauwi, ayowi, eaUi, eowi",,
-uaiaui,214,"(2, 2, 2)",26,"wayawi, wayoi, weawi, weoi","wayawi, wayoi, weawi, weoi",,
-iaiuau,215,"(2, 2, 2)",26,"yaiwau, yaiwo, yayuo, yewau, yewo","yaiwau, yaiwo, yayuo, yewau, yewo",,
-aauiiu,216,"(2, 2, 2)",26,"AuIu, Awiyu, aoIu, aoiyu","AuIu, Awiyu, aoIu, aoiyu",,
-uiauai,217,"(2, 2, 2)",26,"uyawai, uyawe, uyoe, wiawai, wiawe, wioe","uyawai, uyawe, uyoe, wiawai, wiawe, wioe",,
-uuaiia,218,"(2, 2, 2)",26,"UaIa, Ueya, uwaIa, uwaiya, uweya","UaIa, Ueya, uwaIa, uwaiya, uweya",,
-uuaiai,219,"(2, 2, 2)",26,"UE, Uayai, Uaye, uwayai, uwaye, uwee","UE, Uayai, Uaye, uwayai, uwaye, uwee",,
-auiaiu,220,"(2, 2, 2)",26,"awiayu, awieu, oyayu, oyeu","awiayu, awieu, oyayu, oyeu",,
-iiauua,221,"(2, 2, 2)",26,"IaUa, Iowa, iyaUa, iyauwa, iyowa","IaUa, Iowa, iyaUa, iyauwa, iyowa",,
-aiiuau,222,"(2, 2, 2)",26,"aIwau, aIwo, eiwau, eiwo, eyuo","aIwau, aIwo, eiwau, eiwo, eyuo",,
-auaiiu,223,"(2, 2, 2)",26,"awaIu, awaiyu, aweyu, oaIu, oeyu","awaIu, awaiyu, aweyu, oaIu, oeyu",,
-auiiua,224,"(2, 2, 2)",26,"awiiwa, awiyua, oIwa, oiyua","awiiwa, awiyua, oIwa, oiyua",,
-iauiau,225,"(2, 2, 2)",26,"yauyau, yauyo, yawio, yoyau, yoyo","yauyau, yauyo, yawio, yoyau, yoyo",,
-aiuaui,226,"(2, 2, 2)",26,"ayuawi, ayuoi, ewawi, ewoi","ayuawi, ayuoi, ewawi, ewoi",,
-iiuuaa,227,"(2, 2, 2)",26,"IUA, Iuwaa, iyuuA, iyuwaa","IUA, Iuwaa, iyuuA, iyuwaa",,
-uauiia,228,"(2, 2, 2)",26,"wauIa, wawiya, woIa, woiya","wauIa, wawiya, woIa, woiya",,
-iiaauu,229,"(2, 2, 2)",26,"IAU, Iaou, iyaaU, iyaou","IAU, Iaou, iyaaU, iyaou",,
-uaiaiu,230,"(2, 2, 2)",26,"uEu, wayayu, wayeu, weayu, weeu","uEu, wayayu, wayeu, weayu, weeu",,
-uiaiau,231,"(2, 2, 2)",26,"uyayau, uyayo, uyeo, wiayau, wiayo, wieo","uyayau, uyayo, uyeo, wiayau, wiayo, wieo",,
-iuaaui,232,"(2, 2, 2)",26,"iwaawi, iwaoi, yuAwi, yuaoi","iwaawi, iwaoi, yuAwi, yuaoi",,
-aauuii,233,"(2, 2, 2)",26,"AUI, Auwii, aouI, aowii","AUI, Auwii, aouI, aowii",,
-iuiaua,234,"(2, 2, 2)",26,"iwiawa, iwioa, yuyawa, yuyoa","iwiawa, iwioa, yuyawa, yuyoa",,
-auuiai,235,"(2, 2, 2)",26,"aUyai, aUye, ouyai, ouye, owie","aUyai, aUye, ouyai, ouye, owie",,
-aiiuua,236,"(2, 2, 2)",26,"aIUa, aIuwa, eiUa, eyuwa","aIUa, aIuwa, eiUa, eyuwa",,
-uaiuia,237,"(2, 2, 2)",26,"waiwia, wayuya, weuya, wewia","waiwia, wayuya, weuya, wewia",,
-uiuiaa,238,"(2, 2, 2)",26,"uyuiA, uyuyaa, wiuyaa, wiwiA","uyuiA, uyuyaa, wiuyaa, wiwiA",,
-iaaiuu,239,"(2, 2, 2)",26,"iAiU, iAyuu, yaayuu, yaeU","iAiU, iAyuu, yaayuu, yaeU",,
-uiiaau,240,"(2, 2, 2)",26,"uIAu, uIao, wiiAu, wiyao","uIAu, uIao, wiiAu, wiyao",,
-aaiuui,241,"(2, 2, 2)",26,"AiUi, Ayuwi, aeUi, aeuwi","AiUi, Ayuwi, aeUi, aeuwi",,
-uiuaia,242,"(2, 2, 2)",26,"uyuaya, uyuea, wiwaya, wiwea","uyuaya, uyuea, wiwaya, wiwea",,
-uaiiau,243,"(2, 2, 2)",26,"waIo, waiyau, waiyo, weyau, weyo","waIo, waiyau, waiyo, weyau, weyo",,
-iauiua,244,"(2, 2, 2)",26,"yauyua, yawiwa, yoiwa, yoyua","yauyua, yawiwa, yoiwa, yoyua",,
-uuiaai,245,"(2, 2, 2)",26,"UiAi, Uyae, uwiAi, uwiae","UiAi, Uyae, uwiAi, uwiae",,
-iauaui,246,"(2, 2, 2)",26,"iOi, yawawi, yawoi, yoawi, yooi","iOi, yawawi, yawoi, yoawi, yooi",,
-iauuia,247,"(2, 2, 2)",26,"yaUya, yauwia, youya, yowia","yaUya, yauwia, youya, yowia",,
-iuaaiu,248,"(2, 2, 2)",26,"iwaayu, iwaeu, yuAyu, yuaeu","iwaayu, iwaeu, yuAyu, yuaeu",,
-uauiai,249,"(2, 2, 2)",26,"wauyai, wauye, wawie, woyai, woye","wauyai, wauye, wawie, woyai, woye",,
-uiaiua,250,"(2, 2, 2)",26,"uyaiwa, uyayua, uyewa, wiayua, wiewa","uyaiwa, uyayua, uyewa, wiayua, wiewa",,
-iuuaia,251,"(2, 2, 2)",26,"iUaya, iUea, yuwaya, yuwea","iUaya, iUea, yuwaya, yuwea",,
-uiauia,252,"(2, 2, 2)",26,"uyauya, uyawia, uyoya, wiawia, wioya","uyauya, uyawia, uyoya, wiawia, wioya",,
-iuaiua,253,"(2, 2, 2)",26,"iwaiwa, iwayua, iwewa, yuayua, yuewa","iwaiwa, iwayua, iwewa, yuayua, yuewa",,
-iuauia,254,"(2, 2, 2)",26,"iwauya, iwawia, iwoya, yuawia, yuoya","iwauya, iwawia, iwoya, yuawia, yuoya",,
-iauaiu,255,"(2, 2, 2)",26,"yawayu, yaweu, yoayu, yoeu","yawayu, yaweu, yoayu, yoeu",,
-uaaiiu,256,"(2, 2, 2)",26,"uAIu, uAiyu, waaIu, waeyu","uAIu, uAiyu, waaIu, waeyu",,
-aaiuiu,257,"(2, 2, 2)",26,"Aiwiu, Ayuyu, aeuyu, aewiu","Aiwiu, Ayuyu, aeuyu, aewiu",,
-auiuia,258,"(2, 2, 2)",26,"awiuya, awiwia, oiwia, oyuya","awiuya, awiwia, oiwia, oyuya",,
-aiuiau,259,"(2, 2, 2)",26,"ayuyau, ayuyo, euyau, euyo, ewio","ayuyau, ayuyo, euyau, euyo, ewio",,
-aiiauu,260,"(2, 2, 2)",26,"aIaU, aIou, eyaU, eyou","aIaU, aIou, eyaU, eyou",,
-auiiau,261,"(2, 2, 2)",26,"awiyau, awiyo, oIo, oiyau, oiyo","awiyau, awiyo, oIo, oiyau, oiyo",,
-aiuaiu,262,"(2, 2, 2)",26,"ayuayu, ayueu, ewayu, eweu","ayuayu, ayueu, ewayu, eweu",,
-aauiui,263,"(2, 2, 2)",26,"Auyui, Awiwi, aoiwi, aoyui","Auyui, Awiwi, aoiwi, aoyui",,
-uiaaiu,264,"(2, 2, 2)",26,"uyaayu, uyaeu, wiAyu, wiaeu","uyaayu, uyaeu, wiAyu, wiaeu",,
-auauii,265,"(2, 2, 2)",26,"OI, awauI, awawii, awoI, oawii","OI, awauI, awawii, awoI, oawii",,
-aiaiuu,266,"(2, 2, 2)",26,"EU, ayaiU, ayayuu, ayeU, eayuu","EU, ayaiU, ayayuu, ayeU, eayuu",,
-uaaiui,267,"(2, 2, 2)",26,"uAiwi, uAyui, waayui, waewi","uAiwi, uAyui, waayui, waewi",,
-uaiiua,268,"(2, 2, 2)",26,"waIwa, waiyua, weiwa, weyua","waIwa, waiyua, weiwa, weyua",,
-uuiiaa,269,"(2, 2, 2)",26,"UIA, Uiyaa, uwiiA, uwiyaa","UIA, Uiyaa, uwiiA, uwiyaa",,
-uaauii,270,"(2, 2, 2)",26,"uAuI, uAwii, waawii, waoI","uAuI, uAwii, waawii, waoI",,
+Valid Path,Path Number,Destination Coordinate,Destination Index,Fusion Lineage(s),Final Glyph(s)
+u,1,"(0, 0, 1)",1,u,u
+uu,2,"(0, 0, 2)",2,U,U
+a,3,"(0, 1, 0)",3,a,a
+ua,4,"(0, 1, 1)",4,wa,wa
+au,5,"(0, 1, 1)",4,o,o
+uua,6,"(0, 1, 2)",5,"Ua, uwa","Ua, uwa"
+auu,7,"(0, 1, 2)",5,"aU, ou","aU, ou"
+uau,8,"(0, 1, 2)",5,"wau, wo","wau, wo"
+aa,9,"(0, 2, 0)",6,A,A
+aau,10,"(0, 2, 1)",7,"Au, ao","Au, ao"
+aua,11,"(0, 2, 1)",7,"awa, oa","awa, oa"
+uaa,12,"(0, 2, 1)",7,"uA, waa","uA, waa"
+uaau,13,"(0, 2, 2)",8,"uAu, wao","uAu, wao"
+aauu,14,"(0, 2, 2)",8,"AU, aou","AU, aou"
+uaua,15,"(0, 2, 2)",8,"wawa, woa","wawa, woa"
+auua,16,"(0, 2, 2)",8,"aUa, owa","aUa, owa"
+auau,17,"(0, 2, 2)",8,"O, awau, awo","O, awau, awo"
+uuaa,18,"(0, 2, 2)",8,"UA, uwaa","UA, uwaa"
+i,19,"(1, 0, 0)",9,i,i
+ui,20,"(1, 0, 1)",10,wi,wi
+iu,21,"(1, 0, 1)",10,yu,yu
+iuu,22,"(1, 0, 2)",11,"iU, yuu","iU, yuu"
+uui,23,"(1, 0, 2)",11,"Ui, uwi","Ui, uwi"
+uiu,24,"(1, 0, 2)",11,"uyu, wiu","uyu, wiu"
+ia,25,"(1, 1, 0)",12,ya,ya
+ai,26,"(1, 1, 0)",12,e,e
+uai,27,"(1, 1, 1)",13,"wai, we","wai, we"
+iau,28,"(1, 1, 1)",13,"yau, yo","yau, yo"
+aui,29,"(1, 1, 1)",13,"awi, oi","awi, oi"
+iua,30,"(1, 1, 1)",13,"iwa, yua","iwa, yua"
+aiu,31,"(1, 1, 1)",13,"ayu, eu","ayu, eu"
+uia,32,"(1, 1, 1)",13,"uya, wia","uya, wia"
+auui,33,"(1, 1, 2)",14,"aUi, owi","aUi, owi"
+aiuu,34,"(1, 1, 2)",14,"ayuu, eU","ayuu, eU"
+iauu,35,"(1, 1, 2)",14,"yaU, you","yaU, you"
+auiu,36,"(1, 1, 2)",14,"awiu, oyu","awiu, oyu"
+uiua,37,"(1, 1, 2)",14,"uyua, wiwa","uyua, wiwa"
+iuua,38,"(1, 1, 2)",14,"iUa, yuwa","iUa, yuwa"
+uuai,39,"(1, 1, 2)",14,"Ue, uwai, uwe","Ue, uwai, uwe"
+iuau,40,"(1, 1, 2)",14,"iwau, iwo, yuo","iwau, iwo, yuo"
+uuia,41,"(1, 1, 2)",14,"Uya, uwia","Uya, uwia"
+uiau,42,"(1, 1, 2)",14,"uyau, uyo, wio","uyau, uyo, wio"
+uaiu,43,"(1, 1, 2)",14,"wayu, weu","wayu, weu"
+uaui,44,"(1, 1, 2)",14,"wawi, woi","wawi, woi"
+aai,45,"(1, 2, 0)",15,"Ai, ae","Ai, ae"
+iaa,46,"(1, 2, 0)",15,"iA, yaa","iA, yaa"
+aia,47,"(1, 2, 0)",15,"aya, ea","aya, ea"
+iuaa,48,"(1, 2, 1)",16,"iwaa, yuA","iwaa, yuA"
+uaia,49,"(1, 2, 1)",16,"waya, wea","waya, wea"
+aaiu,50,"(1, 2, 1)",16,"Ayu, aeu","Ayu, aeu"
+uaai,51,"(1, 2, 1)",16,"uAi, wae","uAi, wae"
+uiaa,52,"(1, 2, 1)",16,"uyaa, wiA","uyaa, wiA"
+aaui,53,"(1, 2, 1)",16,"Awi, aoi","Awi, aoi"
+iaau,54,"(1, 2, 1)",16,"iAu, yao","iAu, yao"
+aiua,55,"(1, 2, 1)",16,"ayua, ewa","ayua, ewa"
+auai,56,"(1, 2, 1)",16,"awai, awe, oe","awai, awe, oe"
+iaua,57,"(1, 2, 1)",16,"yawa, yoa","yawa, yoa"
+aiau,58,"(1, 2, 1)",16,"ayau, ayo, eo","ayau, ayo, eo"
+auia,59,"(1, 2, 1)",16,"awia, oya","awia, oya"
+iuuaa,60,"(1, 2, 2)",17,"iUA, yuuA, yuwaa","iUA, yuuA, yuwaa"
+uauia,61,"(1, 2, 2)",17,"wauya, wawia, woya","wauya, wawia, woya"
+uauai,62,"(1, 2, 2)",17,"wawai, wawe, woe","wawai, wawe, woe"
+auaiu,63,"(1, 2, 2)",17,"awayu, aweu, oayu, oeu","awayu, aweu, oayu, oeu"
+auuia,64,"(1, 2, 2)",17,"aUya, ouya, owia","aUya, ouya, owia"
+aiuau,65,"(1, 2, 2)",17,"ayuo, ewau, ewo","ayuo, ewau, ewo"
+auuai,66,"(1, 2, 2)",17,"aUe, owai, owe","aUe, owai, owe"
+uuaai,67,"(1, 2, 2)",17,"UAi, Uae, uwae","UAi, Uae, uwae"
+uaaui,68,"(1, 2, 2)",17,"uAwi, waawi, waoi","uAwi, waawi, waoi"
+uaiau,69,"(1, 2, 2)",17,"wayau, wayo, weo","wayau, wayo, weo"
+iuaau,70,"(1, 2, 2)",17,"iwao, yuAu, yuao","iwao, yuAu, yuao"
+auiua,71,"(1, 2, 2)",17,"awiwa, oiwa, oyua","awiwa, oiwa, oyua"
+uaaiu,72,"(1, 2, 2)",17,"uAyu, waayu, waeu","uAyu, waayu, waeu"
+iauua,73,"(1, 2, 2)",17,"yaUa, yauwa, yowa","yaUa, yauwa, yowa"
+aaiuu,74,"(1, 2, 2)",17,"AiU, Ayuu, aeU","AiU, Ayuu, aeU"
+uiuaa,75,"(1, 2, 2)",17,"uyuA, wiuA, wiwaa","uyuA, wiuA, wiwaa"
+uuiaa,76,"(1, 2, 2)",17,"UiA, Uyaa, uwiA","UiA, Uyaa, uwiA"
+aauui,77,"(1, 2, 2)",17,"AUi, Auwi, aowi","AUi, Auwi, aowi"
+aauiu,78,"(1, 2, 2)",17,"Auyu, Awiu, aoyu","Auyu, Awiu, aoyu"
+uiaua,79,"(1, 2, 2)",17,"uyawa, uyoa, wiawa, wioa","uyawa, uyoa, wiawa, wioa"
+iaauu,80,"(1, 2, 2)",17,"iAU, yaaU, yaou","iAU, yaaU, yaou"
+aiuua,81,"(1, 2, 2)",17,"ayuwa, eUa, euwa","eUa, euwa"
+auiau,82,"(1, 2, 2)",17,"awio, oyau, oyo","awio, oyau, oyo"
+iuaua,83,"(1, 2, 2)",17,"iwawa, iwoa, yuawa, yuoa","iwawa, iwoa, yuawa, yuoa"
+auaui,84,"(1, 2, 2)",17,"Oi, awawi, awoi, oawi","Oi, awawi, awoi, oawi"
+uaiua,85,"(1, 2, 2)",17,"waiwa, wayua, wewa","waiwa, wayua, wewa"
+iauau,86,"(1, 2, 2)",17,"iO, yawau, yawo, yoo","iO, yawau, yawo, yoo"
+aiauu,87,"(1, 2, 2)",17,"ayaU, ayou, eaU, eou","ayaU, ayou, eaU"
+uiaau,88,"(1, 2, 2)",17,"uyao, wiAu, wiao","uyao, wiAu, wiao"
+uuaia,89,"(1, 2, 2)",17,"Uaya, Uea, uwaya, uwea","Uaya, Uea, uwaya, uwea"
+ii,90,"(2, 0, 0)",18,I,I
+iui,91,"(2, 0, 1)",19,"iwi, yui","iwi, yui"
+iiu,92,"(2, 0, 1)",19,"Iu, iyu","Iu, iyu"
+uii,93,"(2, 0, 1)",19,"uI, wii","uI, wii"
+iiuu,94,"(2, 0, 2)",20,"IU, iyuu","IU, iyuu"
+iuui,95,"(2, 0, 2)",20,"iUi, yuwi","iUi, yuwi"
+uiiu,96,"(2, 0, 2)",20,"uIu, wiyu","uIu, wiyu"
+iuiu,97,"(2, 0, 2)",20,"iwiu, yuyu","iwiu, yuyu"
+uuii,98,"(2, 0, 2)",20,"UI, uwii","UI, uwii"
+uiui,99,"(2, 0, 2)",20,"uyui, wiwi","uyui, wiwi"
+iia,100,"(2, 1, 0)",21,"Ia, iya","Ia, iya"
+aii,101,"(2, 1, 0)",21,"aI, ei","aI, ei"
+iai,102,"(2, 1, 0)",21,"yai, ye","yai, ye"
+uiai,103,"(2, 1, 1)",22,"uyai, uye, wie","uyai, uye, wie"
+uaii,104,"(2, 1, 1)",22,"waI, wei","waI, wei"
+iiau,105,"(2, 1, 1)",22,"Io, iyau, iyo","Io, iyau, iyo"
+aiiu,106,"(2, 1, 1)",22,"aIu, eyu","aIu, eyu"
+iaiu,107,"(2, 1, 1)",22,"yayu, yeu","yayu, yeu"
+auii,108,"(2, 1, 1)",22,"awii, oI","awii, oI"
+aiui,109,"(2, 1, 1)",22,"ayui, ewi","ayui, ewi"
+iaui,110,"(2, 1, 1)",22,"yawi, yoi","yawi, yoi"
+iiua,111,"(2, 1, 1)",22,"Iwa, iyua","Iwa, iyua"
+uiia,112,"(2, 1, 1)",22,"uIa, wiya","uIa, wiya"
+iuai,113,"(2, 1, 1)",22,"iwai, iwe, yue","iwai, iwe, yue"
+iuia,114,"(2, 1, 1)",22,"iwia, yuya","iwia, yuya"
+iauui,115,"(2, 1, 2)",23,"yaUi, yauwi, yowi","yaUi, yauwi, yowi"
+uiuia,116,"(2, 1, 2)",23,"uyuya, wiuya, wiwia","uyuya, wiuya, wiwia"
+uiuai,117,"(2, 1, 2)",23,"uyue, wiwai, wiwe","uyue, wiwai, wiwe"
+uuiai,118,"(2, 1, 2)",23,"Uyai, Uye, uwie","Uyai, Uye, uwie"
+iauiu,119,"(2, 1, 2)",23,"yauyu, yawiu, yoyu","yauyu, yawiu, yoyu"
+iuiau,120,"(2, 1, 2)",23,"iwio, yuyau, yuyo","iwio, yuyau, yuyo"
+uiiua,121,"(2, 1, 2)",23,"uIwa, wiiwa, wiyua","uIwa, wiiwa, wiyua"
+aiiuu,122,"(2, 1, 2)",23,"aIU, eiU, eyuu","aIU, eiU, eyuu"
+auiiu,123,"(2, 1, 2)",23,"awiyu, oIu, oiyu","awiyu, oIu, oiyu"
+iiuau,124,"(2, 1, 2)",23,"Iwau, Iwo, iyuo","Iwau, Iwo, iyuo"
+uiaui,125,"(2, 1, 2)",23,"uyawi, uyoi, wiawi, wioi","uyawi, uyoi, wiawi, wioi"
+aiuui,126,"(2, 1, 2)",23,"ayuwi, eUi, euwi","ayuwi, eUi, euwi"
+iiauu,127,"(2, 1, 2)",23,"IaU, Iou, iyaU, iyou","IaU, Iou, iyaU, iyou"
+uaiui,128,"(2, 1, 2)",23,"waiwi, wayui, wewi","waiwi, wayui, wewi"
+iuaui,129,"(2, 1, 2)",23,"iwawi, iwoi, yuawi, yuoi","iwawi, iwoi, yuawi, yuoi"
+uiaiu,130,"(2, 1, 2)",23,"uyayu, uyeu, wiayu, wieu","uyayu, uyeu, wiayu, wieu"
+aiuiu,131,"(2, 1, 2)",23,"ayuyu, euyu, ewiu","ayuyu, euyu, ewiu"
+uuaii,132,"(2, 1, 2)",23,"UaI, Uei, uwaI, uwei","UaI, Uei, uwaI, uwei"
+iuuia,133,"(2, 1, 2)",23,"iUya, yuuya, yuwia","iUya, yuuya, yuwia"
+uaiiu,134,"(2, 1, 2)",23,"waIu, waiyu, weyu","waIu, waiyu, weyu"
+iuaiu,135,"(2, 1, 2)",23,"iwayu, iweu, yuayu, yueu","iwayu, iweu, yuayu, yueu"
+uiiau,136,"(2, 1, 2)",23,"uIo, wiyau, wiyo","uIo, wiyau, wiyo"
+iuuai,137,"(2, 1, 2)",23,"iUe, yuwai, yuwe","iUe, yuwe"
+uauii,138,"(2, 1, 2)",23,"wauI, wawii, woI","wauI, wawii, woI"
+auuii,139,"(2, 1, 2)",23,"aUI, ouI, owii","aUI, ouI, owii"
+iuiua,140,"(2, 1, 2)",23,"iwiwa, yuiwa, yuyua","iwiwa, yuiwa, yuyua"
+iiuua,141,"(2, 1, 2)",23,"IUa, Iuwa, iyuwa","IUa, Iuwa, iyuwa"
+uuiia,142,"(2, 1, 2)",23,"UIa, Uiya, uwiya","UIa, Uiya, uwiya"
+auiui,143,"(2, 1, 2)",23,"awiwi, oiwi, oyui","awiwi, oiwi, oyui"
+iaiuu,144,"(2, 1, 2)",23,"yaiU, yayuu, yeU","yaiU, yayuu, yeU"
+iaai,145,"(2, 2, 0)",24,"iAi, yae","iAi, yae"
+aiia,146,"(2, 2, 0)",24,"aIa, eya","aIa, eya"
+iaia,147,"(2, 2, 0)",24,"yaya, yea","yaya, yea"
+iiaa,148,"(2, 2, 0)",24,"IA, iyaa","IA, iyaa"
+aiai,149,"(2, 2, 0)",24,"E, ayai, aye","E, ayai, aye"
+aaii,150,"(2, 2, 0)",24,"AI, aei","AI, aei"
+aaiiu,151,"(2, 2, 1)",25,"AIu, Aiyu, aeyu","AIu, Aiyu, aeyu"
+auiai,152,"(2, 2, 1)",25,"awie, oyai, oye","awie, oyai, oye"
+iiaua,153,"(2, 2, 1)",25,"Iawa, Ioa, iyawa, iyoa","Iawa, Ioa, iyawa, iyoa"
+iaaui,154,"(2, 2, 1)",25,"iAwi, yaawi, yaoi","iAwi, yaawi, yaoi"
+iaiau,155,"(2, 2, 1)",25,"yayau, yayo, yeo","yayau, yayo, yeo"
+iiuaa,156,"(2, 2, 1)",25,"IuA, Iwaa, iyuA","IuA, Iwaa, iyuA"
+iauai,157,"(2, 2, 1)",25,"yawai, yawe, yoe","yawai, yawe, yoe"
+aiiua,158,"(2, 2, 1)",25,"aIwa, eiwa, eyua","aIwa, eiwa, eyua"
+iiaau,159,"(2, 2, 1)",25,"IAu, Iao, iyao","IAu, Iao, iyao"
+uiaia,160,"(2, 2, 1)",25,"uyaya, uyea, wiaya, wiea","uyaya, uyea, wiaya, wiea"
+aiaui,161,"(2, 2, 1)",25,"ayawi, ayoi, eawi, eoi","ayawi, ayoi, eawi, eoi"
+aiaiu,162,"(2, 2, 1)",25,"Eu, ayayu, ayeu, eayu","Eu, ayayu, ayeu, eayu"
+iaaiu,163,"(2, 2, 1)",25,"iAyu, yaayu, yaeu","iAyu, yaayu, yaeu"
+uiaai,164,"(2, 2, 1)",25,"uyae, wiAi, wiae","uyae, wiAi, wiae"
+aiuia,165,"(2, 2, 1)",25,"ayuya, euya, ewia","ayuya, euya, ewia"
+uaiia,166,"(2, 2, 1)",25,"waIa, waiya, weya","waIa, waiya, weya"
+iuaia,167,"(2, 2, 1)",25,"iwaya, iwea, yuaya, yuea","iwaya, iwea, yuaya, yuea"
+uiiaa,168,"(2, 2, 1)",25,"uIA, wiiA, wiyaa","uIA, wiiA, wiyaa"
+iuiaa,169,"(2, 2, 1)",25,"iwiA, yuiA, yuyaa","iwiA, yuiA, yuyaa"
+aiiau,170,"(2, 2, 1)",25,"aIo, eyau, eyo","aIo, eyau, eyo"
+auaii,171,"(2, 2, 1)",25,"awaI, awei, oaI, oei","awaI, awei, oaI, oei"
+aiuai,172,"(2, 2, 1)",25,"ayue, ewai, ewe","ayue, ewai, ewe"
+iuaai,173,"(2, 2, 1)",25,"iwae, yuAi, yuae","iwae, yuAi, yuae"
+uaiai,174,"(2, 2, 1)",25,"uE, wayai, waye, wee","uE, wayai, waye, wee"
+iaiua,175,"(2, 2, 1)",25,"yaiwa, yayua, yewa","yaiwa, yayua, yewa"
+uaaii,176,"(2, 2, 1)",25,"uAI, waaI, waei","uAI, waaI, waei"
+aaiui,177,"(2, 2, 1)",25,"Aiwi, Ayui, aewi","Aiwi, Ayui, aewi"
+aauii,178,"(2, 2, 1)",25,"AuI, Awii, aoI","AuI, Awii, aoI"
+iauia,179,"(2, 2, 1)",25,"yauya, yawia, yoya","yauya, yawia, yoya"
+auiia,180,"(2, 2, 1)",25,"awiya, oIa, oiya","awiya, oIa, oiya"
+uiiaua,181,"(2, 2, 2)",26,"uIawa, uIoa, wiyawa, wiyoa","uIawa, uIoa, wiyawa, wiyoa"
+aiaiuu,182,"(2, 2, 2)",26,"EU, ayaiU, ayayuu, ayeU, eayuu","EU, ayaiU, ayayuu, ayeU, eayuu"
+uiaiau,183,"(2, 2, 2)",26,"uyayau, uyayo, uyeo, wiayau, wiayo, wieo","uyayau, uyayo, uyeo, wiayau, wiayo, wieo"
+uaiaui,184,"(2, 2, 2)",26,"wayawi, wayoi, weawi, weoi","wayawi, wayoi, weawi, weoi"
+aauiui,185,"(2, 2, 2)",26,"Auyui, Awiwi, aoiwi, aoyui","Auyui, Awiwi, aoiwi, aoyui"
+iaaiuu,186,"(2, 2, 2)",26,"iAiU, iAyuu, yaayuu, yaeU","iAiU, iAyuu, yaayuu, yaeU"
+iuaiua,187,"(2, 2, 2)",26,"iwaiwa, iwayua, iwewa, yuayua, yuewa","iwaiwa, iwayua, iwewa, yuayua, yuewa"
+iauiua,188,"(2, 2, 2)",26,"yauyua, yawiwa, yoiwa, yoyua","yauyua, yawiwa, yoiwa, yoyua"
+iaauui,189,"(2, 2, 2)",26,"iAUi, iAuwi, yaaUi, yaowi","iAUi, iAuwi, yaaUi, yaowi"
+uaaiui,190,"(2, 2, 2)",26,"uAiwi, uAyui, waayui, waewi","uAiwi, uAyui, waayui, waewi"
+iauiau,191,"(2, 2, 2)",26,"yauyau, yauyo, yawio, yoyau, yoyo","yauyau, yauyo, yawio, yoyau, yoyo"
+iauuai,192,"(2, 2, 2)",26,"yaUe, yauwai, yauwe, yowai, yowe","yaUe, yauwai, yauwe, yowai, yowe"
+aiauiu,193,"(2, 2, 2)",26,"ayauyu, ayawiu, ayoyu, eawiu, eoyu","ayauyu, ayawiu, ayoyu, eawiu, eoyu"
+auuiai,194,"(2, 2, 2)",26,"aUyai, aUye, ouyai, ouye, owie","aUyai, aUye, ouyai, ouye, owie"
+aiuiau,195,"(2, 2, 2)",26,"ayuyau, ayuyo, euyau, euyo, ewio","ayuyau, ayuyo, euyau, euyo, ewio"
+uiaaui,196,"(2, 2, 2)",26,"uyaawi, uyaoi, wiAwi, wiaoi","uyaawi, uyaoi, wiAwi, wiaoi"
+auiuai,197,"(2, 2, 2)",26,"awiwai, awiwe, oiwai, oiwe, oyue","awiwai, awiwe, oiwai, oiwe, oyue"
+iauaui,198,"(2, 2, 2)",26,"iOi, yawawi, yawoi, yoawi, yooi","iOi, yawawi, yawoi, yoawi, yooi"
+iiauua,199,"(2, 2, 2)",26,"IaUa, Iowa, iyaUa, iyauwa, iyowa","IaUa, Iowa, iyaUa, iyauwa, iyowa"
+aiuaui,200,"(2, 2, 2)",26,"ayuawi, ayuoi, ewawi, ewoi","ayuawi, ayuoi, ewawi, ewoi"
+uiuiaa,201,"(2, 2, 2)",26,"uyuiA, uyuyaa, wiuyaa, wiwiA","uyuiA, uyuyaa, wiuyaa, wiwiA"
+aiiuua,202,"(2, 2, 2)",26,"aIUa, aIuwa, eiUa, eyuwa","aIUa, aIuwa, eiUa, eyuwa"
+aauuii,203,"(2, 2, 2)",26,"AUI, Auwii, aouI, aowii","AUI, Auwii, aouI, aowii"
+uiiuaa,204,"(2, 2, 2)",26,"uIuA, uIwaa, wiiwaa, wiyuA","uIuA, uIwaa, wiiwaa, wiyuA"
+uuiaai,205,"(2, 2, 2)",26,"UiAi, Uyae, uwiAi, uwiae","UiAi, Uyae, uwiAi, uwiae"
+auiaiu,206,"(2, 2, 2)",26,"awiayu, awieu, oyayu, oyeu","awiayu, awieu, oyayu, oyeu"
+uiauai,207,"(2, 2, 2)",26,"uyawai, uyawe, uyoe, wiawai, wiawe, wioe","uyawai, uyawe, uyoe, wiawai, wiawe, wioe"
+iaiuau,208,"(2, 2, 2)",26,"yaiwau, yaiwo, yayuo, yewau, yewo","yaiwau, yaiwo, yayuo, yewau, yewo"
+uuaiai,209,"(2, 2, 2)",26,"UE, Uayai, Uaye, uwayai, uwaye, uwee","UE, Uayai, Uaye, uwayai, uwaye, uwee"
+auaiiu,210,"(2, 2, 2)",26,"awaIu, awaiyu, aweyu, oaIu, oeyu","awaIu, awaiyu, aweyu, oaIu, oeyu"
+iiauau,211,"(2, 2, 2)",26,"IO, Iawau, Iawo, iyawau, iyawo, iyoo","IO, Iawau, Iawo, iyawau, iyawo, iyoo"
+iaiauu,212,"(2, 2, 2)",26,"yayaU, yayou, yeaU, yeou","yayaU, yayou, yeaU, yeou"
+aiiauu,213,"(2, 2, 2)",26,"aIaU, aIou, eyaU, eyou","aIaU, aIou, eyaU, eyou"
+uiiaau,214,"(2, 2, 2)",26,"uIAu, uIao, wiiAu, wiyao","uIAu, uIao, wiiAu, wiyao"
+iuuaai,215,"(2, 2, 2)",26,"iUAi, iUae, yuuAi, yuwae","iUAi, iUae, yuuAi, yuwae"
+uaiiau,216,"(2, 2, 2)",26,"waIo, waiyau, waiyo, weyau, weyo","waIo, waiyau, waiyo, weyau, weyo"
+aaiuiu,217,"(2, 2, 2)",26,"Aiwiu, Ayuyu, aeuyu, aewiu","Aiwiu, Ayuyu, aeuyu, aewiu"
+aauiiu,218,"(2, 2, 2)",26,"AuIu, Awiyu, aoIu, aoiyu","AuIu, Awiyu, aoIu, aoiyu"
+uuaaii,219,"(2, 2, 2)",26,"UAI, Uaei, uwaaI, uwaei","UAI, Uaei, uwaaI, uwaei"
+auuiia,220,"(2, 2, 2)",26,"aUIa, aUiya, ouIa, owiya","aUIa, aUiya, ouIa, owiya"
+auiuia,221,"(2, 2, 2)",26,"awiuya, awiwia, oiwia, oyuya","awiuya, awiwia, oiwia, oyuya"
+uaaiiu,222,"(2, 2, 2)",26,"uAIu, uAiyu, waaIu, waeyu","uAIu, uAiyu, waaIu, waeyu"
+uauiai,223,"(2, 2, 2)",26,"wauyai, wauye, wawie, woyai, woye","wauyai, wauye, wawie, woyai, woye"
+aiuuai,224,"(2, 2, 2)",26,"ayuwai, ayuwe, eUe, euwai, euwe","ayuwe, eUe, euwai, euwe"
+iiuaua,225,"(2, 2, 2)",26,"Iwawa, Iwoa, iyuawa, iyuoa","Iwawa, Iwoa, iyuawa, iyuoa"
+auiiua,226,"(2, 2, 2)",26,"awiiwa, awiyua, oIwa, oiyua","awiiwa, awiyua, oIwa, oiyua"
+uiauia,227,"(2, 2, 2)",26,"uyauya, uyawia, uyoya, wiawia, wioya","uyauya, uyawia, uyoya, wiawia, wioya"
+iiuaau,228,"(2, 2, 2)",26,"IuAu, Iwao, iyuAu, iyuao","IuAu, Iwao, iyuAu, iyuao"
+iuaiau,229,"(2, 2, 2)",26,"iwayau, iwayo, iweo, yuayau, yuayo, yueo","iwayau, iwayo, iweo, yuayau, yuayo, yueo"
+aaiiuu,230,"(2, 2, 2)",26,"AIU, Aiyuu, aeiU, aeyuu","AIU, Aiyuu, aeiU, aeyuu"
+uaiuia,231,"(2, 2, 2)",26,"waiwia, wayuya, weuya, wewia","waiwia, wayuya, weuya, wewia"
+iuaaui,232,"(2, 2, 2)",26,"iwaawi, iwaoi, yuAwi, yuaoi","iwaawi, iwaoi, yuAwi, yuaoi"
+iuauai,233,"(2, 2, 2)",26,"iwawai, iwawe, iwoe, yuawai, yuawe, yuoe","iwawai, iwawe, iwoe, yuawai, yuawe, yuoe"
+aiiuau,234,"(2, 2, 2)",26,"aIwau, aIwo, eiwau, eiwo, eyuo","aIwau, aIwo, eiwau, eiwo, eyuo"
+uaiuai,235,"(2, 2, 2)",26,"waiwai, waiwe, wayue, wewai, wewe","waiwai, waiwe, wayue, wewai, wewe"
+iuaaiu,236,"(2, 2, 2)",26,"iwaayu, iwaeu, yuAyu, yuaeu","iwaayu, iwaeu, yuAyu, yuaeu"
+iuuaia,237,"(2, 2, 2)",26,"iUaya, iUea, yuwaya, yuwea","iUaya, iUea, yuwaya, yuwea"
+uaiaiu,238,"(2, 2, 2)",26,"uEu, wayayu, wayeu, weayu, weeu","uEu, wayayu, wayeu, weayu, weeu"
+iuuiaa,239,"(2, 2, 2)",26,"iUiA, iUyaa, yuuyaa, yuwiA","iUiA, iUyaa, yuuyaa, yuwiA"
+aiauui,240,"(2, 2, 2)",26,"ayaUi, ayauwi, ayowi, eaUi, eowi","ayaUi, ayauwi, ayowi, eaUi, eowi"
+iuiaua,241,"(2, 2, 2)",26,"iwiawa, iwioa, yuyawa, yuyoa","iwiawa, iwioa, yuyawa, yuyoa"
+iauuia,242,"(2, 2, 2)",26,"yaUya, yauwia, youya, yowia","yaUya, yauwia, youya, yowia"
+auuaii,243,"(2, 2, 2)",26,"aUaI, aUei, owaI, owei","aUaI, aUei, owaI, owei"
+uauiia,244,"(2, 2, 2)",26,"wauIa, wawiya, woIa, woiya","wauIa, wawiya, woIa, woiya"
+aiuuia,245,"(2, 2, 2)",26,"ayuuya, ayuwia, eUya, euwia","ayuuya, ayuwia, eUya, euwia"
+iuiaau,246,"(2, 2, 2)",26,"iwiAu, iwiao, yuiAu, yuyao","iwiAu, iwiao, yuiAu, yuyao"
+iiuuaa,247,"(2, 2, 2)",26,"IUA, Iuwaa, iyuuA, iyuwaa","IUA, Iuwaa, iyuuA, iyuwaa"
+uaauii,248,"(2, 2, 2)",26,"uAuI, uAwii, waawii, waoI","uAuI, uAwii, waawii, waoI"
+auauii,249,"(2, 2, 2)",26,"OI, awauI, awawii, awoI, oawii","OI, awauI, awawii, awoI, oawii"
+iaauiu,250,"(2, 2, 2)",26,"iAuyu, iAwiu, yaawiu, yaoyu","iAuyu, iAwiu, yaawiu, yaoyu"
+uuiaia,251,"(2, 2, 2)",26,"Uyaya, Uyea, uwiaya, uwiea","Uyaya, Uyea, uwiaya, uwiea"
+uiuaai,252,"(2, 2, 2)",26,"uyuAi, uyuae, wiuAi, wiwae","uyuAi, uyuae, wiuAi, wiwae"
+uiaaiu,253,"(2, 2, 2)",26,"uyaayu, uyaeu, wiAyu, wiaeu","uyaayu, uyaeu, wiAyu, wiaeu"
+iauaiu,254,"(2, 2, 2)",26,"yawayu, yaweu, yoayu, yoeu","yawayu, yaweu, yoayu, yoeu"
+auaiui,255,"(2, 2, 2)",26,"awaiwi, awayui, awewi, oayui, oewi","awaiwi, awayui, awewi, oayui, oewi"
+aiuaiu,256,"(2, 2, 2)",26,"ayuayu, ayueu, ewayu, eweu","ayuayu, ayueu, ewayu, eweu"
+auiiau,257,"(2, 2, 2)",26,"awiyau, awiyo, oIo, oiyau, oiyo","awiyau, awiyo, oIo, oiyau, oiyo"
+iiaauu,258,"(2, 2, 2)",26,"IAU, Iaou, iyaaU, iyaou","IAU, Iaou, iyaaU, iyaou"
+aaiuui,259,"(2, 2, 2)",26,"AiUi, Ayuwi, aeUi, aeuwi","AiUi, Ayuwi, aeUi, aeuwi"
+aiuiua,260,"(2, 2, 2)",26,"ayuiwa, ayuyua, euyua, ewiwa","ayuiwa, ayuyua, euyua, ewiwa"
+iuiuaa,261,"(2, 2, 2)",26,"iwiuA, iwiwaa, yuiwaa, yuyuA","iwiuA, iwiwaa, yuiwaa, yuyuA"
+uiaiua,262,"(2, 2, 2)",26,"uyaiwa, uyayua, uyewa, wiayua, wiewa","uyaiwa, uyayua, uyewa, wiayua, wiewa"
+uuiiaa,263,"(2, 2, 2)",26,"UIA, Uiyaa, uwiiA, uwiyaa","UIA, Uiyaa, uwiiA, uwiyaa"
+uauaii,264,"(2, 2, 2)",26,"wawaI, wawei, woaI, woei","wawaI, wawei, woaI, woei"
+auiaui,265,"(2, 2, 2)",26,"awiawi, awioi, oyawi, oyoi","awiawi, awioi, oyawi, oyoi"
+uiuaia,266,"(2, 2, 2)",26,"uyuaya, uyuea, wiwaya, wiwea","uyuaya, uyuea, wiwaya, wiwea"
+iaiuua,267,"(2, 2, 2)",26,"yaiUa, yayuwa, yeUa, yeuwa","yaiUa, yayuwa, yeUa, yeuwa"
+uuaiia,268,"(2, 2, 2)",26,"UaIa, Ueya, uwaIa, uwaiya, uweya","UaIa, Ueya, uwaIa, uwaiya, uweya"
+uaiiua,269,"(2, 2, 2)",26,"waIwa, waiyua, weiwa, weyua","waIwa, waiyua, weiwa, weyua"
+iuauia,270,"(2, 2, 2)",26,"iwauya, iwawia, iwoya, yuawia, yuoya","iwauya, iwawia, iwoya, yuawia, yuoya"
