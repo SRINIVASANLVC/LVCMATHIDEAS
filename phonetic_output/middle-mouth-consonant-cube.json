@@ -16,7 +16,7 @@
     "dh": { "coord": [0, -1, -1], "voicing": "voiced", "aspiration": "hard", "direction": "axial" }
   },
   "vowel_vectors": {
-    "i": [-1, 0, -1],
+    "i": [-1, 0, 0],
     "a": [0, -1, 0],
     "u": [0, 0, -1]
   },
