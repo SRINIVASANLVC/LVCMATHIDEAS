@@ -1,0 +1,81 @@
+{
+  "cube_origin": "th",
+  "axes": {
+    "x": "lateralization",
+    "y": "voicing",
+    "z": "hardness"
+  },
+  "consonants": {
+    "th": { "coord": [0, 0, 0], "voicing": "voiceless", "aspiration": "aspirated", "direction": "axial" },
+    "s":  { "coord": [-1, 0, 0], "voicing": "voiceless", "aspiration": "soft", "direction": "lateral" },
+    "sh": { "coord": [-1, 0, -1], "voicing": "voiceless", "aspiration": "hard", "direction": "lateral" },
+    "z":  { "coord": [-1, -1, -1], "voicing": "voiced", "aspiration": "hard", "direction": "lateral" },
+    "zh": { "coord": [-1, -1, 0], "voicing": "voiced", "aspiration": "soft", "direction": "lateral" },
+    "t":  { "coord": [0, 0, -1], "voicing": "voiceless", "aspiration": "hard", "direction": "axial" },
+    "d":  { "coord": [0, -1, 0], "voicing": "voiced", "aspiration": "soft", "direction": "axial" },
+    "dh": { "coord": [0, -1, -1], "voicing": "voiced", "aspiration": "hard", "direction": "axial" }
+  },
+  "vowel_vectors": {
+    "i": [-1, 0, -1],
+    "a": [0, -1, -1],
+    "u": [0, 0, -1]
+  },
+  "transformations": [
+    {
+      "c1": "t",
+      "vowel": "i",
+      "c2": "sh",
+      "vector": [-1, 0, -1],
+      "example": "condition → condishon",
+      "language": "English"
+    },
+    {
+      "c1": "s",
+      "vowel": "u",
+      "c2": "sh",
+      "vector": [0, 0, -1],
+      "example": "pressure → /ʃ/",
+      "language": "English"
+    },
+    {
+      "c1": "s",
+      "vowel": "a",
+      "c2": "zh",
+      "vector": [0, -1, -1],
+      "example": "casual → /ʒ/",
+      "language": "English"
+    },
+    {
+      "c1": "d",
+      "vowel": "i",
+      "c2": "zh",
+      "vector": [-1, 0, -1],
+      "example": "soldier → soljer",
+      "language": "English"
+    },
+    {
+      "c1": "t",
+      "vowel": "u",
+      "c2": "d",
+      "vector": [0, -1, 1],
+      "example": "writer → rider",
+      "language": "American English"
+    },
+    {
+      "c1": "sh",
+      "vowel": "a",
+      "c2": "z",
+      "vector": [0, -1, 1],
+      "example": "measure → /ʒ/",
+      "language": "English"
+    },
+    {
+      "c1": "th",
+      "vowel": "i+a+u",
+      "c2": "z",
+      "vector": [-1, -1, -1],
+      "example": "theoretical → zheoretical",
+      "language": "French-influenced English"
+    }
+  ]
+}
