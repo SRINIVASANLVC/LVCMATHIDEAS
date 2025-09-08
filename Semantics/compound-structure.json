@@ -1,0 +1,140 @@
+{
+  "Compound Structure ID": "CSL001",
+  "Type": "Tatpurusha",
+  "Function": "Modifier + Head",
+  "Examples": ["water-pot", "mind-speech", "truth-path"],
+  "Influence": "Semantic hierarchy; breath flows from qualifier to core"
+}
+{
+  "Compound Structure ID": "CSL002",
+  "Type": "Karmadhāraya",
+  "Function": "Descriptive + Head",
+  "Examples": ["pure-water", "bright-light", "silent-thought"],
+  "Influence": "Quality assignment; breath binds adjective to noun"
+}
+{
+  "Compound Structure ID": "CSL003",
+  "Type": "Dvandva",
+  "Function": "Duality / Pairing",
+  "Examples": ["mother-father", "joy-grief", "sun-moon"],
+  "Influence": "Semantic polarity; breath oscillates between nodes"
+}
+{
+  "Compound Structure ID": "CSL004",
+  "Type": "Bahuvrihi",
+  "Function": "External Referent",
+  "Examples": ["redhead", "long-spear", "soft-heart"],
+  "Influence": "Metaphorical extension; breath points beyond the compound"
+}
+{
+  "Compound Structure ID": "CSL005",
+  "Type": "Avyayībhāva",
+  "Function": "Adverbial + Verb",
+  "Examples": ["quick-run", "well-done", "again-return"],
+  "Influence": "Temporal or manner emphasis; breath modifies action"
+}
+{
+  "Compound Structure ID": "CSL006",
+  "Type": "Upapada",
+  "Function": "Dependent compound",
+  "Examples": ["gift-giving", "truth-speaking", "path-walking"],
+  "Influence": "Verb-noun fusion; breath binds action to object"
+}
+{
+  "Compound Structure ID": "CSL007",
+  "Type": "Samānādhikaraṇa",
+  "Function": "Equal referents",
+  "Examples": ["teacher-guide", "friend-companion", "king-ruler"],
+  "Influence": "Semantic reinforcement; breath doubles identity"
+}
+{
+  "Compound Structure ID": "CSL008",
+  "Type": "Nañ-samāsa",
+  "Function": "Negated compound",
+  "Examples": ["not-knowing", "non-being", "untruth"],
+  "Influence": "Semantic reversal; breath negates root meaning"
+}
+{
+  "Compound Structure ID": "CSL009",
+  "Type": "Prādi-samāsa",
+  "Function": "Prefix-based compound",
+  "Examples": ["upward-movement", "pre-speech", "inward-turn"],
+  "Influence": "Directional emphasis; breath flows from prefix to root"
+}
+{
+  "Compound Structure ID": "CSL010",
+  "Type": "Recursive Samāsa",
+  "Function": "Nested compound",
+  "Examples": ["truth-path-walker", "mind-speech-weaver"],
+  "Influence": "Layered resonance; breath cascades through nested nodes"
+}
+{
+  "Compound Structure ID": "CSL011",
+  "Type": "Directional Samāsa",
+  "Function": "Encodes movement or orientation",
+  "Examples": ["path-forward", "turn-inward", "rise-above"],
+  "Influence": "Breath vector encoded in compound structure"
+}
+{
+  "Compound Structure ID": "CSL012",
+  "Type": "Semantic Polarity Samāsa",
+  "Function": "Encodes oppositional or complementary meanings",
+  "Examples": ["light-dark", "give-take", "bind-release"],
+  "Influence": "Polarity braid; breath oscillates between semantic poles"
+}
+{
+  "Compound Structure ID": "CSL013",
+  "Type": "Mythic Samāsa",
+  "Function": "Encodes mythic or ritual associations",
+  "Examples": ["fire-sacrifice", "moon-mind", "knot-breath"],
+  "Influence": "Semantic resonance tied to lineage or ritual geometry"
+}
+{
+  "Compound Structure ID": "CSL014",
+  "Type": "Recursive Samāsa",
+  "Function": "Compound nested within compound",
+  "Examples": ["truth-path-walker", "mind-speech-weaver"],
+  "Influence": "Layered semantic recursion; breath cascades through nodes"
+}
+{
+  "Compound Structure ID": "CSL015",
+  "Type": "Temporal Samāsa",
+  "Function": "Encodes time-based relationships",
+  "Examples": ["day-night", "before-action", "after-silence"],
+  "Influence": "Breath flows through temporal polarity"
+}
+{
+  "Compound Structure ID": "CSL016",
+  "Type": "Instrumental Samāsa",
+  "Function": "Encodes tool or means of action",
+  "Examples": ["word-weapon", "breath-bridge", "hand-path"],
+  "Influence": "Breath binds agent to instrument"
+}
+{
+  "Compound Structure ID": "CSL017",
+  "Type": "Causal Samāsa",
+  "Function": "Encodes cause-effect relationship",
+  "Examples": ["pain-grief", "seed-growth", "loss-search"],
+  "Influence": "Breath flows from origin to outcome"
+}
+{
+  "Compound Structure ID": "CSL018",
+  "Type": "Spatial Samāsa",
+  "Function": "Encodes location or spatial relation",
+  "Examples": ["sky-path", "earth-touch", "center-turn"],
+  "Influence": "Breath anchored in spatial geometry"
+}
+{
+  "Compound Structure ID": "CSL019",
+  "Type": "Numeric Samāsa",
+  "Function": "Encodes quantity or enumeration",
+  "Examples": ["three-fold", "dual-mind", "seven-knot"],
+  "Influence": "Breath structured by numeric rhythm"
+}
+{
+  "Compound Structure ID": "CSL020",
+  "Type": "Symbolic Samāsa",
+  "Function": "Encodes metaphor or symbolic mapping",
+  "Examples": ["lotus-heart", "mirror-mind", "knot-silence"],
+  "Influence": "Breath resonates through symbolic compression"
+}

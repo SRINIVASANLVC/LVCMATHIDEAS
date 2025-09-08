@@ -1,0 +1,410 @@
+{
+  "Structure Cluster ID": "SCI001",
+  "Function": "Agentive",
+  "Meanings": ["doer of action", "performer", "initiator"],
+  "Sanskrit IPA": ["ˈkaː", "ˈtaː", "ˈtr̩"],
+  "Tamil IPA": ["ˈaːn", "ˈaːr"],
+  "Hebrew IPA": ["ˈan", "ˈit"],
+  "Greek IPA": ["ˈtis", "ˈtor"],
+  "Latin IPA": ["ˈtor", "ˈor"],
+  "Arabic IPA": ["ˈfaː.ʕil", "ˈmun.fiʕ"],
+  "English IPA": ["ˈɚ", "ˈɔːr"]
+}
+{
+  "Structure Cluster ID": "SCI002",
+  "Function": "Feminine Agentive",
+  "Meanings": ["female doer", "feminine classifier"],
+  "Sanskrit IPA": ["ˈi.kaː", "ˈā"],
+  "Tamil IPA": ["ˈi", "ˈaːl"],
+  "Hebrew IPA": ["ˈit", "ˈaː"],
+  "Greek IPA": ["ˈis.sa", "ˈi.ni"],
+  "Latin IPA": ["ˈtrɪks", "ˈaː"],
+  "Arabic IPA": ["ˈfaː.ʕi.la", "ˈat"],
+  "English IPA": ["ˈɛs", "ˈɛt"]
+}
+{
+  "Structure Cluster ID": "SCI003",
+  "Function": "Plurality",
+  "Meanings": ["group", "collective", "many"],
+  "Sanskrit IPA": ["ˈaː.h", "ˈgaː.h"],
+  "Tamil IPA": ["ˈga.l", "ˈka.l"],
+  "Hebrew IPA": ["ˈim", "ˈot"],
+  "Greek IPA": ["ˈi", "ˈai"],
+  "Latin IPA": ["ˈiː", "ˈae"],
+  "Arabic IPA": ["ˈuːn", "ˈaat"],
+  "English IPA": ["ˈs", "ˈz"]
+}
+{
+  "Structure Cluster ID": "SCI004",
+  "Function": "Respect / Honorific",
+  "Meanings": ["honored person", "respected agent"],
+  "Sanskrit IPA": ["ˈʃriː", "ˈma.haː"],
+  "Tamil IPA": ["ˈaːr", "ˈaːl"],
+  "Hebrew IPA": ["ˈrav", "ˈmor"],
+  "Greek IPA": ["ˈki.ri.os", "ˈdes.po.tis"],
+  "Latin IPA": ["ˈdo.mi.nus", "ˈma.gis.ter"],
+  "Arabic IPA": ["ˈsay.yid", "ˈʃeːx"],
+  "English IPA": ["ˈsɚ", "ˈlɔːrd"]
+}
+{
+  "Structure Cluster ID": "SCI005",
+  "Function": "Locative",
+  "Meanings": ["place", "location", "spatial context"],
+  "Sanskrit IPA": ["ˈe", "ˈtra", "ˈtat.ra"],
+  "Tamil IPA": ["ˈi.l", "ˈka.n"],
+  "Hebrew IPA": ["ˈba", "ˈle"],
+  "Greek IPA": ["ˈen", "ˈepi"],
+  "Latin IPA": ["ˈin", "ˈad"],
+  "Arabic IPA": ["ˈfiː", "ˈʕin.da"],
+  "English IPA": ["ˈin", "ˈat"]
+}
+{
+  "Structure Cluster ID": "SCI006",
+  "Function": "Temporal",
+  "Meanings": ["time", "duration", "moment", "sequence"],
+  "Sanskrit IPA": ["ˈkā.la", "ˈyā.ma", "ˈsam.ya"],
+  "Tamil IPA": ["ˈkaː.lam", "ˈne.ra.m"],
+  "Hebrew IPA": ["ˈzə.man", "ˈʃa.ʕa"],
+  "Greek IPA": ["ˈχro.nos", "ˈke.ros"],
+  "Latin IPA": ["ˈtem.pus", "ˈho.ra"],
+  "Arabic IPA": ["ˈwaq.t", "ˈza.man"],
+  "English IPA": ["ˈtiːm", "ˈaʊ.ɚ"]
+}
+{
+  "Structure Cluster ID": "SCI007",
+  "Function": "Possessive",
+  "Meanings": ["ownership", "belonging", "relation"],
+  "Sanskrit IPA": ["ˈasya", "ˈtasya"],
+  "Tamil IPA": ["ˈu.dai.ya", "ˈa.van.ō.du"],
+  "Hebrew IPA": ["ˈʃel", "ˈlo"],
+  "Greek IPA": ["ˈtou", "ˈtis"],
+  "Latin IPA": ["ˈmei", "ˈtui"],
+  "Arabic IPA": ["ˈli", "ˈʕin.da"],
+  "English IPA": ["ˈz", "ˈs"]
+}
+{
+  "Structure Cluster ID": "SCI008",
+  "Function": "Diminutive",
+  "Meanings": ["smallness", "affection", "reduction"],
+  "Sanskrit IPA": ["ˈkaː", "ˈi.kaː"],
+  "Tamil IPA": ["ˈku.t.ti", "ˈci.ṉṉa"],
+  "Hebrew IPA": ["ˈka.tan", "ˈza.ʕir"],
+  "Greek IPA": ["ˈa.ki", "ˈi.la.ki"],
+  "Latin IPA": ["ˈul.us", "ˈel.la"],
+  "Arabic IPA": ["ˈṣa.ɣiːr", "ˈmu.na"],
+  "English IPA": ["ˈlet", "ˈling"]
+}
+{
+  "Structure Cluster ID": "SCI009",
+  "Function": "Augmentative",
+  "Meanings": ["largeness", "intensity", "expansion"],
+  "Sanskrit IPA": ["ˈma.haː", "ˈbṛ.ha.t"],
+  "Tamil IPA": ["ˈpe.ri.ya", "ˈmu.kki.yam"],
+  "Hebrew IPA": ["ˈga.dol", "ˈrav"],
+  "Greek IPA": ["ˈme.gas", "ˈpo.ly"],
+  "Latin IPA": ["ˈmag.nus", "ˈmax.i.mus"],
+  "Arabic IPA": ["ˈka.biːr", "ˈʕa.ẓiːm"],
+  "English IPA": ["ˈbig", "ˈgreat"]
+}
+{
+  "Structure Cluster ID": "SCI010",
+  "Function": "Abstractifier",
+  "Meanings": ["turns concrete into abstract noun", "conceptualization"],
+  "Sanskrit IPA": ["ˈtā", "ˈtvam"],
+  "Tamil IPA": ["ˈa.ma.i", "ˈmai"],
+  "Hebrew IPA": ["ˈut", "ˈiyut"],
+  "Greek IPA": ["ˈsi", "ˈti.ta"],
+  "Latin IPA": ["ˈtas", "ˈtio"],
+  "Arabic IPA": ["ˈiyya", "ˈiyyaːt"],
+  "English IPA": ["ˈness", "ˈtion"]
+}
+{
+  "Structure Cluster ID": "SCI011",
+  "Function": "Nominalizer",
+  "Meanings": ["converts verb/adjective into noun", "noun formation"],
+  "Sanskrit IPA": ["ˈtvaː", "ˈtaː"],
+  "Tamil IPA": ["ˈmai", "ˈa.ma.i"],
+  "Hebrew IPA": ["ˈut", "ˈiyut"],
+  "Greek IPA": ["ˈsis", "ˈti.ta"],
+  "Latin IPA": ["ˈtioː", "ˈtas"],
+  "Arabic IPA": ["ˈiyyaː", "ˈiyya"],
+  "English IPA": ["ˈness", "ˈtion"]
+}
+{
+  "Structure Cluster ID": "SCI012",
+  "Function": "Adjectivalizer",
+  "Meanings": ["converts noun/verb into adjective", "quality assignment"],
+  "Sanskrit IPA": ["ˈyaː", "ˈikaː"],
+  "Tamil IPA": ["ˈaː.na", "ˈaːm"],
+  "Hebrew IPA": ["ˈi", "ˈiː"],
+  "Greek IPA": ["ˈikos", "ˈinos"],
+  "Latin IPA": ["ˈalis", "ˈosus"],
+  "Arabic IPA": ["ˈiyy", "ˈiː"],
+  "English IPA": ["ˈful", "ˈous"]
+}
+{
+  "Structure Cluster ID": "SCI013",
+  "Function": "Passive Marker",
+  "Meanings": ["passive voice", "action received"],
+  "Sanskrit IPA": ["ˈyaː", "ˈtaː"],
+  "Tamil IPA": ["ˈpa.t.tu", "ˈaː.ki"],
+  "Hebrew IPA": ["ˈni", "ˈhu"],
+  "Greek IPA": ["ˈmai", "ˈthe"],
+  "Latin IPA": ["ˈtur", "ˈri"],
+  "Arabic IPA": ["ˈyuː", "ˈtuː"],
+  "English IPA": ["ˈed", "ˈen"]
+}
+{
+  "Structure Cluster ID": "SCI014",
+  "Function": "Reflexive Marker",
+  "Meanings": ["action returned to subject", "self-directed"],
+  "Sanskrit IPA": ["ˈāːt.ma", "ˈsvaː"],
+  "Tamil IPA": ["ˈta.n", "ˈta.n.ni"],
+  "Hebrew IPA": ["ˈats.mi", "ˈle.ats.mo"],
+  "Greek IPA": ["ˈeaftos", "ˈeaftin"],
+  "Latin IPA": ["ˈse", "ˈsibi"],
+  "Arabic IPA": ["ˈnafs", "ˈdhāt"],
+  "English IPA": ["ˈself", "ˈselves"]
+}
+{
+  "Structure Cluster ID": "SCI015",
+  "Function": "Comparative",
+  "Meanings": ["more than", "relative degree", "comparison"],
+  "Sanskrit IPA": ["ˈtara", "ˈyat"],
+  "Tamil IPA": ["ˈvi.da", "ˈa.ti"],
+  "Hebrew IPA": ["ˈyo.ter", "ˈmin"],
+  "Greek IPA": ["ˈte.ro", "ˈsyg.kri.si"],
+  "Latin IPA": ["ˈior", "ˈmagis"],
+  "Arabic IPA": ["ˈak.thar", "ˈaf.dal"],
+  "English IPA": ["ˈer", "ˈmore"]
+}
+{
+  "Structure Cluster ID": "SCI016",
+  "Function": "Superlative",
+  "Meanings": ["highest degree", "most", "extreme comparison"],
+  "Sanskrit IPA": ["ˈtama", "ˈaːti"],
+  "Tamil IPA": ["ˈa.ti", "ˈmu.dal"],
+  "Hebrew IPA": ["ˈyo.ter", "ˈha.χi"],
+  "Greek IPA": ["ˈta.tos", "ˈpe.ris.sos"],
+  "Latin IPA": ["ˈis.si.mus", "ˈma.xi.mus"],
+  "Arabic IPA": ["ˈaʕ.ẓa.mu", "ˈak.thar"],
+  "English IPA": ["ˈest", "ˈmost"]
+}
+{
+  "Structure Cluster ID": "SCI017",
+  "Function": "Case Marker",
+  "Meanings": ["nominative", "accusative", "genitive", "dative", etc."],
+  "Sanskrit IPA": ["ˈah", "ˈam", "ˈasya", "ˈe"],
+  "Tamil IPA": ["ˈai", "ˈu.dai.ya", "ˈka.n"],
+  "Hebrew IPA": ["ˈet", "ˈshel", "ˈle"],
+  "Greek IPA": ["ˈos", "ˈon", "ˈou"],
+  "Latin IPA": ["ˈus", "ˈum", "ˈi"],
+  "Arabic IPA": ["ˈhu", "ˈka", "ˈna"],
+  "English IPA": ["∅", "ˈof", "ˈto"]
+}
+{
+  "Structure Cluster ID": "SCI018",
+  "Function": "Vocative",
+  "Meanings": ["direct address", "calling out"],
+  "Sanskrit IPA": ["ˈhe", "ˈo"],
+  "Tamil IPA": ["ˈeː", "ˈaː"],
+  "Hebrew IPA": ["ˈha", "ˈyo"],
+  "Greek IPA": ["ˈo", "ˈre"],
+  "Latin IPA": ["ˈo", "ˈe"],
+  "Arabic IPA": ["ˈyaː", "ˈaː"],
+  "English IPA": ["ˈoh", "ˈhey"]
+}
+{
+  "Structure Cluster ID": "SCI019",
+  "Function": "Negation Marker",
+  "Meanings": ["absence", "reversal", "denial"],
+  "Sanskrit IPA": ["ˈna", "ˈaː"],
+  "Tamil IPA": ["ˈi.l.lai", "ˈaː.ma.t̪u"],
+  "Hebrew IPA": ["ˈlo", "ˈein"],
+  "Greek IPA": ["ˈmi", "ˈou"],
+  "Latin IPA": ["ˈnon", "ˈne"],
+  "Arabic IPA": ["ˈlaː", "ˈmaː"],
+  "English IPA": ["ˈnoʊ", "ˈnot"]
+}
+{
+  "Structure Cluster ID": "SCI020",
+  "Function": "Interrogative",
+  "Meanings": ["question", "inquiry", "uncertainty"],
+  "Sanskrit IPA": ["ˈkim", "ˈkaː"],
+  "Tamil IPA": ["ˈe.n̪.n̪a", "ˈyaːr"],
+  "Hebrew IPA": ["ˈma", "ˈmi"],
+  "Greek IPA": ["ˈti", "ˈpoios"],
+  "Latin IPA": ["ˈquis", "ˈquid"],
+  "Arabic IPA": ["ˈmaː", "ˈman"],
+  "English IPA": ["ˈwʌt", "ˈhu"]
+}
+{
+  "Structure Cluster ID": "SCI021",
+  "Function": "Directional Prefix",
+  "Meanings": ["toward", "away", "around", "within"],
+  "Sanskrit IPA": ["ˈpra", "ˈupa", "ˈni", "ˈpari"],
+  "Tamil IPA": ["ˈmu.n", "ˈpi.n", "ˈu.l", "ˈcu.t.ti"],
+  "Hebrew IPA": ["ˈel", "ˈmin", "ˈbe", "ˈtoχ"],
+  "Greek IPA": ["ˈpros", "ˈapo", "ˈen", "ˈperi"],
+  "Latin IPA": ["ˈad", "ˈab", "ˈin", "ˈcircum"],
+  "Arabic IPA": ["ˈʔilā", "ˈʕan", "ˈfī", "ˈḥawla"],
+  "English IPA": ["ˈto", "ˈfrom", "ˈin", "ˈaround"]
+}
+{
+  "Structure Cluster ID": "SCI022",
+  "Function": "Aspectual Modifier",
+  "Meanings": ["beginning", "completion", "continuation"],
+  "Sanskrit IPA": ["ˈaː", "ˈsam", "ˈati"],
+  "Tamil IPA": ["ˈaːram", "ˈmu.din", "ˈto.dar"],
+  "Hebrew IPA": ["ˈhatχala", "ˈsof", "ˈhemsheχ"],
+  "Greek IPA": ["ˈarχi", "ˈtelos", "ˈsynexia"],
+  "Latin IPA": ["ˈinitium", "ˈfinis", "ˈcontinuus"],
+  "Arabic IPA": ["ˈbidaːya", "ˈnihaːya", "ˈistimraːr"],
+  "English IPA": ["ˈstart", "ˈend", "ˈcontinue"]
+}
+{
+  "Structure Cluster ID": "SCI023",
+  "Function": "Intensifier",
+  "Meanings": ["emphasis", "force", "strengthening"],
+  "Sanskrit IPA": ["ˈsu", "ˈati", "ˈabhi"],
+  "Tamil IPA": ["ˈmi.ka", "ˈa.ti", "ˈmu.kki.yam"],
+  "Hebrew IPA": ["ˈmeʾod", "ˈkol", "ˈharbe"],
+  "Greek IPA": ["ˈpoly", "ˈmega", "ˈpan"],
+  "Latin IPA": ["ˈvalde", "ˈmaxime", "ˈprae"],
+  "Arabic IPA": ["ˈjiddan", "ˈkaθīr", "ˈʃadīd"],
+  "English IPA": ["ˈvery", "ˈso", "ˈextremely"]
+}
+{
+  "Structure Cluster ID": "SCI024",
+  "Function": "Causative Prefix",
+  "Meanings": ["causing action", "making happen"],
+  "Sanskrit IPA": ["ˈni", "ˈpra", "ˈupa"],
+  "Tamil IPA": ["ˈaː.ki", "ˈva.yi", "ˈu.rut.tu"],
+  "Hebrew IPA": ["ˈhi", "ˈgaʁam", "ˈʃeʁa"],
+  "Greek IPA": ["ˈai.tia", "ˈpro.kal", "ˈgen"],
+  "Latin IPA": ["ˈfac", "ˈeffic", "ˈcaus"],
+  "Arabic IPA": ["ˈʔaʕṭā", "ˈsabbaːb", "ˈjaʕmil"],
+  "English IPA": ["ˈmake", "ˈcause", "ˈbring about"]
+}
+{
+  "Structure Cluster ID": "SCI025",
+  "Function": "Reflexive Prefix",
+  "Meanings": ["self-directed", "returned to subject"],
+  "Sanskrit IPA": ["ˈsva", "ˈāːt.ma"],
+  "Tamil IPA": ["ˈta.n", "ˈta.n.ni"],
+  "Hebrew IPA": ["ˈats.mi", "ˈle.ats.mo"],
+  "Greek IPA": ["ˈeaftos", "ˈeaftin"],
+  "Latin IPA": ["ˈse", "ˈsibi"],
+  "Arabic IPA": ["ˈnafs", "ˈdhāt"],
+  "English IPA": ["ˈself", "ˈselves"]
+}
+{
+  "Structure Cluster ID": "SCI026",
+  "Function": "Negation Prefix",
+  "Meanings": ["not", "absence", "reversal"],
+  "Sanskrit IPA": ["ˈna", "ˈaː", "ˈan"],
+  "Tamil IPA": ["ˈi.l.lai", "ˈaː.ma.t̪u"],
+  "Hebrew IPA": ["ˈlo", "ˈein"],
+  "Greek IPA": ["ˈmi", "ˈa"],
+  "Latin IPA": ["ˈnon", "ˈin"],
+  "Arabic IPA": ["ˈlaː", "ˈmaː"],
+  "English IPA": ["ˈnoʊ", "ˈun"]
+}
+{
+  "Structure Cluster ID": "SCI027",
+  "Function": "Locative Prefix",
+  "Meanings": ["in", "on", "at", "near"],
+  "Sanskrit IPA": ["ˈni", "ˈupa", "ˈadhi"],
+  "Tamil IPA": ["ˈu.l", "ˈme.l", "ˈki.l"],
+  "Hebrew IPA": ["ˈbe", "ˈal", "ˈetsel"],
+  "Greek IPA": ["ˈen", "ˈepi", "ˈpros"],
+  "Latin IPA": ["ˈin", "ˈsub", "ˈad"],
+  "Arabic IPA": ["ˈfī", "ˈʕinda", "ˈʕala"],
+  "English IPA": ["ˈin", "ˈon", "ˈat"]
+}
+{
+  "Structure Cluster ID": "SCI028",
+  "Function": "Temporal Prefix",
+  "Meanings": ["before", "after", "during"],
+  "Sanskrit IPA": ["ˈpūrva", "ˈuttara", "ˈmadhya"],
+  "Tamil IPA": ["ˈmu.n", "ˈpi.n", "ˈna.t.tu"],
+  "Hebrew IPA": ["ˈlifnei", "ˈaχarei", "ˈbe.toχ"],
+  "Greek IPA": ["ˈpro", "ˈmeta", "ˈkata"],
+  "Latin IPA": ["ˈante", "ˈpost", "ˈper"],
+  "Arabic IPA": ["ˈqabla", "ˈbaʕda", "ˈxilāl"],
+  "English IPA": ["ˈbefore", "ˈafter", "ˈduring"]
+}
+{
+  "Structure Cluster ID": "SCI029",
+  "Function": "Honorific Prefix",
+  "Meanings": ["elevated status", "respectful invocation"],
+  "Sanskrit IPA": ["ˈśrī", "ˈmahā"],
+  "Tamil IPA": ["ˈti.ru", "ˈma.ha"],
+  "Hebrew IPA": ["ˈrav", "ˈmor"],
+  "Greek IPA": ["ˈkyrios", "ˈdespotes"],
+  "Latin IPA": ["ˈdominus", "ˈmagister"],
+  "Arabic IPA": ["ˈsayyid", "ˈsheikh"],
+  "English IPA": ["ˈsir", "ˈlord"]
+}
+{
+  "Structure Cluster ID": "SCI030",
+  "Function": "Compound Initiator",
+  "Meanings": ["starts compound", "semantic binding"],
+  "Sanskrit IPA": ["ˈsam", "ˈpra", "ˈupa"],
+  "Tamil IPA": ["ˈto.t.ti", "ˈmu.dal", "ˈcu.t.ti"],
+  "Hebrew IPA": ["ˈve", "ˈim", "ˈbe"],
+  "Greek IPA": ["ˈsyn", "ˈmeta", "ˈpros"],
+  "Latin IPA": ["ˈcon", "ˈcom", "ˈper"],
+  "Arabic IPA": ["ˈwa", "ˈmaʕa", "ˈbi"],
+  "English IPA": ["ˈco", "ˈcom", "ˈwith"]
+}
+{
+  "Structure Cluster ID": "SCI031",
+  "Function": "Present Tense",
+  "Meanings": ["ongoing action", "current state", "habitual present"]
+}
+{
+  "Structure Cluster ID": "SCI032",
+  "Function": "Past Tense",
+  "Meanings": ["completed action", "historical state", "retrospective"]
+}
+{
+  "Structure Cluster ID": "SCI033",
+  "Function": "Future Tense",
+  "Meanings": ["anticipated action", "projected state", "intention"]
+}
+{
+  "Structure Cluster ID": "SCI034",
+  "Function": "Imperative Mood",
+  "Meanings": ["command", "instruction", "directive"]
+}
+{
+  "Structure Cluster ID": "SCI035",
+  "Function": "Optative Mood",
+  "Meanings": ["wish", "hope", "possibility"]
+}
+{
+  "Structure Cluster ID": "SCI036",
+  "Function": "Conditional Mood",
+  "Meanings": ["hypothetical", "if-then logic", "contingency"]
+}
+{
+  "Structure Cluster ID": "SCI037",
+  "Function": "Subjunctive Mood",
+  "Meanings": ["uncertainty", "desire", "non-factual possibility"]
+}
+{
+  "Structure Cluster ID": "SCI038",
+  "Function": "Habitual Aspect",
+  "Meanings": ["repeated action", "customary behavior", "routine"]
+}
+{
+  "Structure Cluster ID": "SCI039",
+  "Function": "Perfect Aspect",
+  "Meanings": ["completed with relevance", "resultant state"]
+}
+{
+  "Structure Cluster ID": "SCI040",
+  "Function": "Progressive Aspect",
+  "Meanings": ["ongoing process", "incomplete action", "continuity"]
+}

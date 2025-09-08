@@ -1,0 +1,1800 @@
+{
+  "Cluster ID": "CI001",
+  "Domain": "Body Orientation",
+  "Meanings": ["left", "right", "front", "back", "top", "bottom"]
+}
+{
+  "Cluster ID": "CI002",
+  "Domain": "Cardinal Directions",
+  "Meanings": ["east", "west", "north", "south"]
+}
+{
+  "Cluster ID": "CI003",
+  "Domain": "Motion States",
+  "Meanings": ["rise", "fall", "enter", "exit", "expand", "contract"]
+}
+{
+  "Cluster ID": "CI004",
+  "Domain": "Temporal Concepts",
+  "Meanings": ["before", "after", "now", "eternal"]
+}
+{
+  "Cluster ID": "CI005",
+  "Domain": "Emotional Arcs",
+  "Meanings": ["joy", "grief", "fear", "calm", "desire"]
+}
+{
+  "Cluster ID": "CI006",
+  "Domain": "Containment / Boundary",
+  "Meanings": ["hold", "grasp", "enclose", "surround", "protect", "limit"]
+}
+{
+  "Cluster ID": "CI007",
+  "Domain": "Separation / Release",
+  "Meanings": ["cut", "break", "detach", "free", "unfold", "scatter"]
+}
+{
+  "Cluster ID": "CI008",
+  "Domain": "Connection / Union",
+  "Meanings": ["join", "bind", "merge", "attach", "fuse", "embrace"]
+}
+{
+  "Cluster ID": "CI009",
+  "Domain": "Perception / Awareness",
+  "Meanings": ["see", "hear", "touch", "sense", "notice", "observe"]
+}
+{
+  "Cluster ID": "CI010",
+  "Domain": "Cognition / Thought",
+  "Meanings": ["know", "understand", "remember", "imagine", "believe", "doubt"]
+}
+{
+  "Cluster ID": "CI011",
+  "Domain": "Speech / Expression",
+  "Meanings": ["speak", "say", "tell", "ask", "name", "declare"]
+}
+{
+  "Cluster ID": "CI012",
+  "Domain": "Movement / Travel",
+  "Meanings": ["walk", "run", "fly", "swim", "climb", "descend"]
+}
+{
+  "Cluster ID": "CI013",
+  "Domain": "Creation / Generation",
+  "Meanings": ["make", "build", "form", "create", "shape", "compose"]
+}
+{
+  "Cluster ID": "CI014",
+  "Domain": "Destruction / Dissolution",
+  "Meanings": ["destroy", "break", "shatter", "erase", "melt", "dissolve"]
+}
+{
+  "Cluster ID": "CI015",
+  "Domain": "Possession / Ownership",
+  "Meanings": ["have", "own", "keep", "take", "receive", "claim"]
+}
+{
+  "Cluster ID": "CI016",
+  "Domain": "Offering / Giving",
+  "Meanings": ["give", "offer", "share", "present", "donate", "extend"]
+}
+{
+  "Cluster ID": "CI017",
+  "Domain": "Containment / Boundary",
+  "Meanings": ["hold", "grasp", "enclose", "surround", "protect", "limit"]
+}
+{
+  "Cluster ID": "CI018",
+  "Domain": "Transformation / Change",
+  "Meanings": ["change", "transform", "shift", "convert", "mutate", "evolve"]
+}
+{
+  "Cluster ID": "CI019",
+  "Domain": "Judgment / Evaluation",
+  "Meanings": ["judge", "measure", "weigh", "compare", "decide", "rank"]
+}
+{
+  "Cluster ID": "CI020",
+  "Domain": "Emotion / Intensity",
+  "Meanings": ["love", "hate", "anger", "peace", "passion", "indifference"]
+}
+{
+  "Cluster ID": "CI021",
+  "Domain": "Elemental Forces",
+  "Meanings": ["fire", "water", "air", "earth", "ether"]
+}
+{
+  "Cluster ID": "CI022",
+  "Domain": "Light / Vision",
+  "Meanings": ["light", "shine", "glow", "see", "illuminate", "reveal"]
+}
+{
+  "Cluster ID": "CI023",
+  "Domain": "Darkness / Obscurity",
+  "Meanings": ["dark", "hide", "cover", "shadow", "conceal", "blind"]
+}
+{
+  "Cluster ID": "CI024",
+  "Domain": "Sound / Resonance",
+  "Meanings": ["sound", "echo", "ring", "hum", "vibrate", "resonate"]
+}
+{
+  "Cluster ID": "CI025",
+  "Domain": "Breath / Life Force",
+  "Meanings": ["breathe", "inhale", "exhale", "pulse", "live", "flow"]
+}
+{
+  "Cluster ID": "CI026",
+  "Domain": "Birth / Emergence",
+  "Meanings": ["birth", "begin", "emerge", "sprout", "appear", "unfold"]
+}
+{
+  "Cluster ID": "CI027",
+  "Domain": "Death / Dissolution",
+  "Meanings": ["die", "end", "vanish", "fade", "depart", "disappear"]
+}
+{
+  "Cluster ID": "CI028",
+  "Domain": "Ritual Action",
+  "Meanings": ["offer", "invoke", "chant", "bind", "purify", "sacrifice"]
+}
+{
+  "Cluster ID": "CI029",
+  "Domain": "Sacred Space",
+  "Meanings": ["temple", "altar", "circle", "boundary", "center", "axis"]
+}
+{
+  "Cluster ID": "CI030",
+  "Domain": "Time Cycles",
+  "Meanings": ["day", "night", "season", "year", "cycle", "moment"]
+}
+{
+  "Cluster ID": "CI031",
+  "Domain": "Social Relations",
+  "Meanings": ["self", "other", "parent", "child", "elder", "stranger"]
+}
+{
+  "Cluster ID": "CI032",
+  "Domain": "Kinship / Lineage",
+  "Meanings": ["ancestor", "descendant", "family", "clan", "blood", "heritage"]
+}
+{
+  "Cluster ID": "CI033",
+  "Domain": "Authority / Power",
+  "Meanings": ["rule", "lead", "command", "govern", "control", "dominate"]
+}
+{
+  "Cluster ID": "CI034",
+  "Domain": "Submission / Obedience",
+  "Meanings": ["obey", "follow", "yield", "submit", "serve", "surrender"]
+}
+{
+  "Cluster ID": "CI035",
+  "Domain": "Conflict / Struggle",
+  "Meanings": ["fight", "resist", "oppose", "clash", "defend", "attack"]
+}
+{
+  "Cluster ID": "CI036",
+  "Domain": "Peace / Harmony",
+  "Meanings": ["calm", "balance", "align", "settle", "unite", "reconcile"]
+}
+{
+  "Cluster ID": "CI037",
+  "Domain": "Cognitive States",
+  "Meanings": ["focus", "drift", "clarify", "confuse", "reflect", "meditate"]
+}
+{
+  "Cluster ID": "CI038",
+  "Domain": "Desire / Drive",
+  "Meanings": ["want", "need", "seek", "crave", "urge", "pursue"]
+}
+{
+  "Cluster ID": "CI039",
+  "Domain": "Fear / Avoidance",
+  "Meanings": ["fear", "hide", "escape", "avoid", "reject", "withdraw"]
+}
+{
+  "Cluster ID": "CI040",
+  "Domain": "Joy / Celebration",
+  "Meanings": ["joy", "laugh", "dance", "sing", "celebrate", "play"]
+}
+{
+  "Cluster ID": "CI041",
+  "Domain": "Touch / Contact",
+  "Meanings": ["touch", "press", "tap", "stroke", "feel", "grip"]
+}
+{
+  "Cluster ID": "CI042",
+  "Domain": "Weight / Pressure",
+  "Meanings": ["heavy", "light", "press", "lift", "burden", "float"]
+}
+{
+  "Cluster ID": "CI043",
+  "Domain": "Heat / Temperature",
+  "Meanings": ["hot", "warm", "cool", "cold", "burn", "freeze"]
+}
+{
+  "Cluster ID": "CI044",
+  "Domain": "Texture / Surface",
+  "Meanings": ["smooth", "rough", "soft", "hard", "sticky", "slippery"]
+}
+{
+  "Cluster ID": "CI045",
+  "Domain": "Shape / Form",
+  "Meanings": ["round", "square", "flat", "curved", "sharp", "hollow"]
+}
+{
+  "Cluster ID": "CI046",
+  "Domain": "Size / Scale",
+  "Meanings": ["big", "small", "tall", "short", "wide", "narrow"]
+}
+{
+  "Cluster ID": "CI047",
+  "Domain": "Distance / Proximity",
+  "Meanings": ["near", "far", "close", "distant", "approach", "retreat"]
+}
+{
+  "Cluster ID": "CI048",
+  "Domain": "Speed / Pace",
+  "Meanings": ["fast", "slow", "hurry", "delay", "rush", "linger"]
+}
+{
+  "Cluster ID": "CI049",
+  "Domain": "Direction / Flow",
+  "Meanings": ["up", "down", "in", "out", "forward", "backward"]
+}
+{
+  "Cluster ID": "CI050",
+  "Domain": "Balance / Stability",
+  "Meanings": ["balance", "tilt", "fall", "stand", "lean", "steady"]
+}
+{
+  "Cluster ID": "CI051",
+  "Domain": "Growth / Increase",
+  "Meanings": ["grow", "expand", "rise", "multiply", "spread", "bloom"]
+}
+{
+  "Cluster ID": "CI052",
+  "Domain": "Decay / Reduction",
+  "Meanings": ["shrink", "wither", "decline", "fade", "reduce", "collapse"]
+}
+{
+  "Cluster ID": "CI053",
+  "Domain": "Opening / Access",
+  "Meanings": ["open", "unlock", "reveal", "enter", "expose", "admit"]
+}
+{
+  "Cluster ID": "CI054",
+  "Domain": "Closing / Restriction",
+  "Meanings": ["close", "lock", "hide", "block", "seal", "deny"]
+}
+{
+  "Cluster ID": "CI055",
+  "Domain": "Containment / Vessel",
+  "Meanings": ["container", "box", "bag", "shell", "case", "boundary"]
+}
+{
+  "Cluster ID": "CI056",
+  "Domain": "Liquid / Flow",
+  "Meanings": ["liquid", "pour", "spill", "drip", "stream", "flood"]
+}
+{
+  "Cluster ID": "CI057",
+  "Domain": "Solid / Structure",
+  "Meanings": ["solid", "stone", "metal", "wood", "brick", "wall"]
+}
+{
+  "Cluster ID": "CI058",
+  "Domain": "Gas / Air",
+  "Meanings": ["air", "wind", "breeze", "blow", "breath", "cloud"]
+}
+{
+  "Cluster ID": "CI059",
+  "Domain": "Energy / Force",
+  "Meanings": ["push", "pull", "strike", "shock", "charge", "flow"]
+}
+{
+  "Cluster ID": "CI060",
+  "Domain": "Pain / Discomfort",
+  "Meanings": ["hurt", "ache", "sting", "burn", "sore", "injure"]
+}
+{
+  "Cluster ID": "CI061",
+  "Domain": "Healing / Recovery",
+  "Meanings": ["heal", "recover", "soothe", "rest", "repair", "restore"]
+}
+{
+  "Cluster ID": "CI062",
+  "Domain": "Food / Nourishment",
+  "Meanings": ["eat", "drink", "feed", "taste", "swallow", "digest"]
+}
+{
+  "Cluster ID": "CI063",
+  "Domain": "Sleep / Rest",
+  "Meanings": ["sleep", "rest", "nap", "dream", "lie", "doze"]
+}
+{
+  "Cluster ID": "CI064",
+  "Domain": "Wakefulness / Alertness",
+  "Meanings": ["wake", "rise", "alert", "focus", "watch", "attend"]
+}
+{
+  "Cluster ID": "CI065",
+  "Domain": "Sexuality / Reproduction",
+  "Meanings": ["mate", "reproduce", "desire", "touch", "join", "seed"]
+}
+{
+  "Cluster ID": "CI066",
+  "Domain": "Gender / Identity",
+  "Meanings": ["male", "female", "neutral", "self", "body", "role"]
+}
+{
+  "Cluster ID": "CI067",
+  "Domain": "Clothing / Covering",
+  "Meanings": ["wear", "cover", "wrap", "dress", "hide", "adorn"]
+}
+{
+  "Cluster ID": "CI068",
+  "Domain": "Shelter / Dwelling",
+  "Meanings": ["house", "home", "tent", "roof", "wall", "nest"]
+}
+{
+  "Cluster ID": "CI069",
+  "Domain": "Tool / Instrument",
+  "Meanings": ["tool", "knife", "hammer", "rope", "wheel", "key"]
+}
+{
+  "Cluster ID": "CI070",
+  "Domain": "Weapon / Defense",
+  "Meanings": ["weapon", "shield", "arrow", "sword", "armor", "trap"]
+}
+{
+  "Cluster ID": "CI071",
+  "Domain": "Vehicle / Transport",
+  "Meanings": ["car", "boat", "horse", "wheel", "ride", "carry"]
+}
+{
+  "Cluster ID": "CI072",
+  "Domain": "Trade / Exchange",
+  "Meanings": ["buy", "sell", "give", "take", "offer", "receive"]
+}
+{
+  "Cluster ID": "CI073",
+  "Domain": "Work / Labor",
+  "Meanings": ["work", "build", "dig", "carry", "sweat", "earn"]
+}
+{
+  "Cluster ID": "CI074",
+  "Domain": "Play / Leisure",
+  "Meanings": ["play", "rest", "dance", "sing", "laugh", "relax"]
+}
+{
+  "Cluster ID": "CI075",
+  "Domain": "Art / Craft",
+  "Meanings": ["paint", "draw", "sculpt", "weave", "compose", "design"]
+}
+{
+  "Cluster ID": "CI076",
+  "Domain": "Music / Sound",
+  "Meanings": ["sing", "play", "beat", "tone", "melody", "rhythm"]
+}
+{
+  "Cluster ID": "CI077",
+  "Domain": "Writing / Marking",
+  "Meanings": ["write", "draw", "mark", "engrave", "record", "inscribe"]
+}
+{
+  "Cluster ID": "CI078",
+  "Domain": "Counting / Number",
+  "Meanings": ["count", "add", "subtract", "divide", "multiply", "measure"]
+}
+{
+  "Cluster ID": "CI079",
+  "Domain": "Time Measurement",
+  "Meanings": ["hour", "minute", "second", "day", "month", "year"]
+}
+{
+  "Cluster ID": "CI080",
+  "Domain": "Memory / Record",
+  "Meanings": ["remember", "forget", "record", "recall", "archive", "preserve"]
+}
+{
+  "Cluster ID": "CI081",
+  "Domain": "Mythic Archetypes",
+  "Meanings": ["hero", "villain", "sage", "trickster", "guardian", "child"]
+}
+{
+  "Cluster ID": "CI082",
+  "Domain": "Divine Roles",
+  "Meanings": ["creator", "destroyer", "preserver", "judge", "healer", "guide"]
+}
+{
+  "Cluster ID": "CI083",
+  "Domain": "Sacred Objects",
+  "Meanings": ["staff", "cup", "circle", "mirror", "knot", "flame"]
+}
+{
+  "Cluster ID": "CI084",
+  "Domain": "Symbolic Animals",
+  "Meanings": ["serpent", "eagle", "lion", "cow", "horse", "fish"]
+}
+{
+  "Cluster ID": "CI085",
+  "Domain": "Celestial Bodies",
+  "Meanings": ["sun", "moon", "star", "planet", "comet", "eclipse"]
+}
+{
+  "Cluster ID": "CI086",
+  "Domain": "Natural Cycles",
+  "Meanings": ["birth", "growth", "decay", "death", "rebirth", "transformation"]
+}
+{
+  "Cluster ID": "CI087",
+  "Domain": "Sacred Numbers",
+  "Meanings": ["one", "two", "three", "four", "seven", "nine"]
+}
+{
+  "Cluster ID": "CI088",
+  "Domain": "Dualities / Polarities",
+  "Meanings": ["light/dark", "male/female", "order/chaos", "life/death", "inner/outer", "above/below"]
+}
+{
+  "Cluster ID": "CI089",
+  "Domain": "States of Being",
+  "Meanings": ["awake", "asleep", "alive", "dead", "dreaming", "transcending"]
+}
+{
+  "Cluster ID": "CI090",
+  "Domain": "Sacred Actions",
+  "Meanings": ["chant", "invoke", "offer", "bind", "purify", "sacrifice"]
+}
+{
+  "Cluster ID": "CI091",
+  "Domain": "Sacred Places",
+  "Meanings": ["temple", "altar", "mountain", "cave", "river", "tree"]
+}
+{
+  "Cluster ID": "CI092",
+  "Domain": "Sacred Times",
+  "Meanings": ["dawn", "noon", "dusk", "midnight", "solstice", "equinox"]
+}
+{
+  "Cluster ID": "CI093",
+  "Domain": "Sacred Sounds",
+  "Meanings": ["om", "hum", "bell", "drum", "flute", "chant"]
+}
+{
+  "Cluster ID": "CI094",
+  "Domain": "Sacred Gestures",
+  "Meanings": ["bow", "raise", "circle", "touch", "offer", "seal"]
+}
+{
+  "Cluster ID": "CI095",
+  "Domain": "Sacred Colors",
+  "Meanings": ["white", "black", "red", "blue", "gold", "green"]
+}
+{
+  "Cluster ID": "CI096",
+  "Domain": "Sacred Directions",
+  "Meanings": ["east", "west", "north", "south", "up", "down"]
+}
+{
+  "Cluster ID": "CI097",
+  "Domain": "Sacred Elements",
+  "Meanings": ["earth", "water", "fire", "air", "ether", "light"]
+}
+{
+  "Cluster ID": "CI098",
+  "Domain": "Sacred Numbers (Extended)",
+  "Meanings": ["zero", "five", "six", "eight", "ten", "twelve"]
+}
+{
+  "Cluster ID": "CI099",
+  "Domain": "Sacred Tools",
+  "Meanings": ["knife", "rope", "staff", "vessel", "mirror", "key"]
+}
+{
+  "Cluster ID": "CI100",
+  "Domain": "Sacred States",
+  "Meanings": ["pure", "impure", "blessed", "cursed", "empty", "full"]
+}
+{
+  "Cluster ID": "CI101",
+  "Domain": "Sacred Speech",
+  "Meanings": ["name", "word", "truth", "lie", "silence", "blessing"]
+}
+{
+  "Cluster ID": "CI102",
+  "Domain": "Sacred Breath",
+  "Meanings": ["inhale", "exhale", "pulse", "chant", "whisper", "resonate"]
+}
+{
+  "Cluster ID": "CI103",
+  "Domain": "Sacred Fire",
+  "Meanings": ["ignite", "burn", "glow", "consume", "purify", "transform"]
+}
+{
+  "Cluster ID": "CI104",
+  "Domain": "Sacred Water",
+  "Meanings": ["flow", "cleanse", "immerse", "quench", "reflect", "carry"]
+}
+{
+  "Cluster ID": "CI105",
+  "Domain": "Sacred Earth",
+  "Meanings": ["ground", "plant", "bury", "grow", "hold", "nourish"]
+}
+{
+  "Cluster ID": "CI106",
+  "Domain": "Sacred Air",
+  "Meanings": ["breathe", "lift", "scatter", "move", "whirl", "sing"]
+}
+{
+  "Cluster ID": "CI107",
+  "Domain": "Sacred Ether",
+  "Meanings": ["connect", "transcend", "vibrate", "merge", "dissolve", "expand"]
+}
+{
+  "Cluster ID": "CI108",
+  "Domain": "Sacred Geometry",
+  "Meanings": ["circle", "square", "triangle", "spiral", "knot", "axis"]
+}
+{
+  "Cluster ID": "CI109",
+  "Domain": "Sacred Body",
+  "Meanings": ["head", "heart", "hand", "foot", "eye", "breath"]
+}
+{
+  "Cluster ID": "CI110",
+  "Domain": "Sacred Mind",
+  "Meanings": ["thought", "vision", "memory", "dream", "intention", "awareness"]
+}
+{
+  "Cluster ID": "CI111",
+  "Domain": "Sacred Emotion",
+  "Meanings": ["love", "fear", "joy", "grief", "peace", "desire"]
+}
+{
+  "Cluster ID": "CI112",
+  "Domain": "Sacred Ritual",
+  "Meanings": ["begin", "repeat", "complete", "seal", "offer", "transform"]
+}
+{
+  "Cluster ID": "CI113",
+  "Domain": "Sacred Lineage",
+  "Meanings": ["ancestor", "descendant", "blood", "name", "clan", "heritage"]
+}
+{
+  "Cluster ID": "CI114",
+  "Domain": "Sacred Journey",
+  "Meanings": ["depart", "travel", "cross", "arrive", "return", "ascend"]
+}
+{
+  "Cluster ID": "CI115",
+  "Domain": "Sacred Barrier",
+  "Meanings": ["wall", "veil", "gate", "threshold", "seal", "limit"]
+}
+{
+  "Cluster ID": "CI116",
+  "Domain": "Sacred Offering",
+  "Meanings": ["gift", "sacrifice", "tribute", "token", "vow", "exchange"]
+}
+{
+  "Cluster ID": "CI117",
+  "Domain": "Sacred Binding",
+  "Meanings": ["tie", "knot", "bind", "weave", "seal", "join"]
+}
+{
+  "Cluster ID": "CI118",
+  "Domain": "Sacred Release",
+  "Meanings": ["untie", "break", "scatter", "dissolve", "free", "open"]
+}
+{
+  "Cluster ID": "CI119",
+  "Domain": "Sacred Center",
+  "Meanings": ["axis", "core", "heart", "middle", "origin", "source"]
+}
+{
+  "Cluster ID": "CI120",
+  "Domain": "Sacred Closure",
+  "Meanings": ["end", "complete", "seal", "rest", "return", "circle"]
+}
+{
+  "Cluster ID": "CI121",
+  "Domain": "Abstract Forces",
+  "Meanings": ["gravity", "magnetism", "tension", "pressure", "flow", "resistance"]
+}
+{
+  "Cluster ID": "CI122",
+  "Domain": "Ethical States",
+  "Meanings": ["good", "evil", "just", "unfair", "honest", "corrupt"]
+}
+{
+  "Cluster ID": "CI123",
+  "Domain": "Truth / Falsehood",
+  "Meanings": ["true", "false", "real", "fake", "authentic", "deceptive"]
+}
+{
+  "Cluster ID": "CI124",
+  "Domain": "Knowledge / Ignorance",
+  "Meanings": ["know", "learn", "forget", "ignore", "reveal", "conceal"]
+}
+{
+  "Cluster ID": "CI125",
+  "Domain": "Wisdom / Folly",
+  "Meanings": ["wise", "foolish", "clever", "naive", "insight", "confusion"]
+}
+{
+  "Cluster ID": "CI126",
+  "Domain": "Order / Chaos",
+  "Meanings": ["structure", "pattern", "random", "mess", "align", "scatter"]
+}
+{
+  "Cluster ID": "CI127",
+  "Domain": "Unity / Division",
+  "Meanings": ["unite", "split", "merge", "divide", "connect", "separate"]
+}
+{
+  "Cluster ID": "CI128",
+  "Domain": "Beginning / Ending",
+  "Meanings": ["start", "begin", "open", "end", "close", "finish"]
+}
+{
+  "Cluster ID": "CI129",
+  "Domain": "Transition / Passage",
+  "Meanings": ["cross", "move", "shift", "pass", "change", "transform"]
+}
+{
+  "Cluster ID": "CI130",
+  "Domain": "Threshold / Gate",
+  "Meanings": ["door", "gate", "portal", "entry", "exit", "passage"]
+}
+{
+  "Cluster ID": "CI131",
+  "Domain": "Inside / Outside",
+  "Meanings": ["inner", "outer", "within", "beyond", "contain", "exclude"]
+}
+{
+  "Cluster ID": "CI132",
+  "Domain": "Above / Below",
+  "Meanings": ["up", "down", "rise", "fall", "ascend", "descend"]
+}
+{
+  "Cluster ID": "CI133",
+  "Domain": "Center / Periphery",
+  "Meanings": ["core", "edge", "middle", "border", "axis", "rim"]
+}
+{
+  "Cluster ID": "CI134",
+  "Domain": "Stillness / Motion",
+  "Meanings": ["still", "move", "pause", "flow", "rest", "rush"]
+}
+{
+  "Cluster ID": "CI135",
+  "Domain": "Visibility / Invisibility",
+  "Meanings": ["visible", "hidden", "seen", "unseen", "appear", "disappear"]
+}
+{
+  "Cluster ID": "CI136",
+  "Domain": "Presence / Absence",
+  "Meanings": ["present", "absent", "here", "gone", "arrive", "vanish"]
+}
+{
+  "Cluster ID": "CI137",
+  "Domain": "Possibility / Impossibility",
+  "Meanings": ["can", "cannot", "possible", "impossible", "allow", "deny"]
+}
+{
+  "Cluster ID": "CI138",
+  "Domain": "Reality / Illusion",
+  "Meanings": ["real", "dream", "illusion", "hallucination", "truth", "mirage"]
+}
+{
+  "Cluster ID": "CI139",
+  "Domain": "Identity / Mask",
+  "Meanings": ["self", "other", "name", "face", "mask", "role"]
+}
+{
+  "Cluster ID": "CI140",
+  "Domain": "Memory / Forgetting",
+  "Meanings": ["remember", "forget", "recall", "erase", "preserve", "lose"]
+}
+{
+  "Cluster ID": "CI141",
+  "Domain": "Intention / Accident",
+  "Meanings": ["plan", "chance", "will", "random", "design", "unintended"]
+}
+{
+  "Cluster ID": "CI142",
+  "Domain": "Control / Surrender",
+  "Meanings": ["hold", "release", "grasp", "let go", "command", "yield"]
+}
+{
+  "Cluster ID": "CI143",
+  "Domain": "Containment / Overflow",
+  "Meanings": ["contain", "spill", "limit", "exceed", "hold", "burst"]
+}
+{
+  "Cluster ID": "CI144",
+  "Domain": "Silence / Sound",
+  "Meanings": ["quiet", "loud", "mute", "speak", "echo", "noise"]
+}
+{
+  "Cluster ID": "CI145",
+  "Domain": "Lightness / Darkness",
+  "Meanings": ["light", "dark", "bright", "dim", "shine", "shadow"]
+}
+{
+  "Cluster ID": "CI146",
+  "Domain": "Purity / Pollution",
+  "Meanings": ["clean", "dirty", "pure", "impure", "wash", "stain"]
+}
+{
+  "Cluster ID": "CI147",
+  "Domain": "Growth / Decay",
+  "Meanings": ["grow", "wither", "bloom", "fade", "expand", "shrink"]
+}
+{
+  "Cluster ID": "CI148",
+  "Domain": "Creation / Destruction",
+  "Meanings": ["create", "destroy", "build", "break", "form", "shatter"]
+}
+{
+  "Cluster ID": "CI149",
+  "Domain": "Binding / Loosening",
+  "Meanings": ["tie", "untie", "bind", "loosen", "weave", "unravel"]
+}
+{
+  "Cluster ID": "CI150",
+  "Domain": "Opening / Closing",
+  "Meanings": ["open", "close", "unlock", "seal", "reveal", "hide"]
+}
+{
+  "Cluster ID": "CI151",
+  "Domain": "Arrival / Departure",
+  "Meanings": ["arrive", "depart", "come", "go", "enter", "exit"]
+}
+{
+  "Cluster ID": "CI152",
+  "Domain": "Union / Separation",
+  "Meanings": ["join", "split", "merge", "detach", "connect", "break"]
+}
+{
+  "Cluster ID": "CI153",
+  "Domain": "Ascension / Descent",
+  "Meanings": ["rise", "fall", "climb", "drop", "lift", "sink"]
+}
+{
+  "Cluster ID": "CI154",
+  "Domain": "Expansion / Contraction",
+  "Meanings": ["expand", "contract", "stretch", "compress", "inflate", "deflate"]
+}
+{
+  "Cluster ID": "CI155",
+  "Domain": "Flow / Blockage",
+  "Meanings": ["flow", "stop", "move", "halt", "stream", "dam"]
+}
+{
+  "Cluster ID": "CI156",
+  "Domain": "Clarity / Confusion",
+  "Meanings": ["clear", "foggy", "understand", "confuse", "focus", "blur"]
+}
+{
+  "Cluster ID": "CI157",
+  "Domain": "Strength / Weakness",
+  "Meanings": ["strong", "weak", "firm", "fragile", "power", "faint"]
+}
+{
+  "Cluster ID": "CI158",
+  "Domain": "Presence / Emptiness",
+  "Meanings": ["full", "empty", "filled", "void", "abundant", "absent"]
+}
+{
+  "Cluster ID": "CI159",
+  "Domain": "Connection / Isolation",
+  "Meanings": ["connect", "isolate", "link", "sever", "join", "alone"]
+}
+{
+  "Cluster ID": "CI160",
+  "Domain": "Harmony / Dissonance",
+  "Meanings": ["align", "clash", "balance", "conflict", "blend", "discord"]
+}
+{
+  "Cluster ID": "CI161",
+  "Domain": "Mythic Paradox",
+  "Meanings": ["same", "different", "both", "neither", "inside", "outside"]
+}
+{
+  "Cluster ID": "CI162",
+  "Domain": "Dream Logic",
+  "Meanings": ["float", "shift", "melt", "transform", "echo", "repeat"]
+}
+{
+  "Cluster ID": "CI163",
+  "Domain": "Symbolic Transition",
+  "Meanings": ["threshold", "veil", "passage", "crossing", "liminal", "between"]
+}
+{
+  "Cluster ID": "CI164",
+  "Domain": "Semantic Recursion",
+  "Meanings": ["loop", "cycle", "return", "reflect", "mirror", "spiral"]
+}
+{
+  "Cluster ID": "CI165",
+  "Domain": "Ritual Closure",
+  "Meanings": ["seal", "complete", "circle", "bind", "rest", "end"]
+}
+{
+  "Cluster ID": "CI166",
+  "Domain": "Ritual Opening",
+  "Meanings": ["begin", "invoke", "open", "call", "invite", "start"]
+}
+{
+  "Cluster ID": "CI167",
+  "Domain": "Sacred Polarity",
+  "Meanings": ["positive", "negative", "active", "passive", "light", "dark"]
+}
+{
+  "Cluster ID": "CI168",
+  "Domain": "Temporal Paradox",
+  "Meanings": ["past", "future", "now", "never", "always", "again"]
+}
+{
+  "Cluster ID": "CI169",
+  "Domain": "Spatial Paradox",
+  "Meanings": ["here", "there", "everywhere", "nowhere", "between", "beyond"]
+}
+{
+  "Cluster ID": "CI170",
+  "Domain": "Identity Paradox",
+  "Meanings": ["self", "other", "same", "change", "mask", "true"]
+}
+{
+  "Cluster ID": "CI171",
+  "Domain": "Voice / Silence",
+  "Meanings": ["speak", "whisper", "shout", "echo", "mute", "listen"]
+}
+{
+  "Cluster ID": "CI172",
+  "Domain": "Gesture / Motion",
+  "Meanings": ["wave", "point", "raise", "lower", "circle", "touch"]
+}
+{
+  "Cluster ID": "CI173",
+  "Domain": "Symbol / Meaning",
+  "Meanings": ["sign", "mark", "glyph", "name", "meaning", "code"]
+}
+{
+  "Cluster ID": "CI174",
+  "Domain": "Boundary / Passage",
+  "Meanings": ["wall", "gate", "door", "path", "cross", "limit"]
+}
+{
+  "Cluster ID": "CI175",
+  "Domain": "Center / Axis",
+  "Meanings": ["core", "middle", "pivot", "axis", "origin", "source"]
+}
+{
+  "Cluster ID": "CI176",
+  "Domain": "Edge / Rim",
+  "Meanings": ["border", "edge", "fringe", "limit", "threshold", "margin"]
+}
+{
+  "Cluster ID": "CI177",
+  "Domain": "Knot / Weave",
+  "Meanings": ["tie", "bind", "weave", "braid", "loop", "twist"]
+}
+{
+  "Cluster ID": "CI178",
+  "Domain": "Cut / Divide",
+  "Meanings": ["cut", "split", "break", "cleave", "sever", "shatter"]
+}
+{
+  "Cluster ID": "CI179",
+  "Domain": "Merge / Fuse",
+  "Meanings": ["join", "blend", "fuse", "combine", "unite", "absorb"]
+}
+{
+  "Cluster ID": "CI180",
+  "Domain": "Echo / Reflection",
+  "Meanings": ["echo", "mirror", "reflect", "repeat", "resonate", "return"]
+}
+{
+  "Cluster ID": "CI181",
+  "Domain": "Pulse / Rhythm",
+  "Meanings": ["beat", "pulse", "wave", "cycle", "flow", "vibrate"]
+}
+{
+  "Cluster ID": "CI182",
+  "Domain": "Breath / Wind",
+  "Meanings": ["inhale", "exhale", "blow", "gust", "breeze", "whirl"]
+}
+{
+  "Cluster ID": "CI183",
+  "Domain": "Fire / Flame",
+  "Meanings": ["burn", "ignite", "glow", "spark", "consume", "transform"]
+}
+{
+  "Cluster ID": "CI184",
+  "Domain": "Water / Flow",
+  "Meanings": ["flow", "stream", "ripple", "flood", "immerse", "carry"]
+}
+{
+  "Cluster ID": "CI185",
+  "Domain": "Earth / Ground",
+  "Meanings": ["ground", "root", "hold", "bury", "grow", "support"]
+}
+{
+  "Cluster ID": "CI186",
+  "Domain": "Air / Lift",
+  "Meanings": ["rise", "float", "fly", "scatter", "drift", "hover"]
+}
+{
+  "Cluster ID": "CI187",
+  "Domain": "Ether / Space",
+  "Meanings": ["connect", "expand", "merge", "dissolve", "vibrate", "transcend"]
+}
+{
+  "Cluster ID": "CI188",
+  "Domain": "Circle / Spiral",
+  "Meanings": ["circle", "loop", "spiral", "orbit", "cycle", "turn"]
+}
+{
+  "Cluster ID": "CI189",
+  "Domain": "Line / Path",
+  "Meanings": ["line", "path", "track", "route", "trace", "journey"]
+}
+{
+  "Cluster ID": "CI190",
+  "Domain": "Point / Dot",
+  "Meanings": ["point", "dot", "mark", "spot", "origin", "focus"]
+}
+{
+  "Cluster ID": "CI191",
+  "Domain": "Grid / Net",
+  "Meanings": ["grid", "net", "mesh", "matrix", "pattern", "structure"]
+}
+{
+  "Cluster ID": "CI192",
+  "Domain": "Cube / Volume",
+  "Meanings": ["cube", "box", "space", "dimension", "form", "contain"]
+}
+{
+  "Cluster ID": "CI193",
+  "Domain": "Sphere / Whole",
+  "Meanings": ["sphere", "circle", "whole", "complete", "round", "enclose"]
+}
+{
+  "Cluster ID": "CI194",
+  "Domain": "Axis / Polarity",
+  "Meanings": ["axis", "pole", "direction", "vector", "spin", "balance"]
+}
+{
+  "Cluster ID": "CI195",
+  "Domain": "Layer / Stack",
+  "Meanings": ["layer", "stack", "pile", "level", "tier", "depth"]
+}
+{
+  "Cluster ID": "CI196",
+  "Domain": "Fold / Unfold",
+  "Meanings": ["fold", "unfold", "wrap", "open", "close", "reveal"]
+}
+{
+  "Cluster ID": "CI197",
+  "Domain": "Bind / Release",
+  "Meanings": ["bind", "tie", "seal", "release", "break", "scatter"]
+}
+{
+  "Cluster ID": "CI198",
+  "Domain": "Enter / Exit",
+  "Meanings": ["enter", "exit", "arrive", "depart", "cross", "return"]
+}
+{
+  "Cluster ID": "CI199",
+  "Domain": "Rise / Fall",
+  "Meanings": ["rise", "fall", "lift", "drop", "ascend", "descend"]
+}
+{
+  "Cluster ID": "CI200",
+  "Domain": "Begin / End",
+  "Meanings": ["begin", "start", "open", "end", "close", "complete"]
+}
+{
+  "Cluster ID": "CI201",
+  "Domain": "Human Body Parts",
+  "Meanings": ["head", "hand", "foot", "eye", "ear", "heart"]
+}
+{
+  "Cluster ID": "CI202",
+  "Domain": "Animal Body Parts",
+  "Meanings": ["horn", "tail", "hoof", "wing", "claw", "fur"]
+}
+{
+  "Cluster ID": "CI203",
+  "Domain": "Celestial Objects",
+  "Meanings": ["sun", "moon", "star", "planet", "sky", "space"]
+}
+{
+  "Cluster ID": "CI204",
+  "Domain": "Natural Objects",
+  "Meanings": ["tree", "river", "mountain", "stone", "cloud", "flower"]
+}
+{
+  "Cluster ID": "CI205",
+  "Domain": "Sacred Objects",
+  "Meanings": ["staff", "vessel", "mirror", "knot", "flame", "circle"]
+}
+{
+  "Cluster ID": "CI206",
+  "Domain": "Clothing / Adornment",
+  "Meanings": ["robe", "garment", "belt", "crown", "jewel", "veil"]
+}
+{
+  "Cluster ID": "CI207",
+  "Domain": "Household Items",
+  "Meanings": ["pot", "plate", "bed", "lamp", "door", "rope"]
+}
+{
+  "Cluster ID": "CI208",
+  "Domain": "Tools / Instruments",
+  "Meanings": ["knife", "hammer", "needle", "brush", "key", "wheel"]
+}
+{
+  "Cluster ID": "CI209",
+  "Domain": "Weapons / Armor",
+  "Meanings": ["sword", "bow", "arrow", "shield", "helmet", "trap"]
+}
+{
+  "Cluster ID": "CI210",
+  "Domain": "Containers / Vessels",
+  "Meanings": ["box", "bag", "jar", "shell", "case", "basket"]
+}
+{
+  "Cluster ID": "CI211",
+  "Domain": "Structures / Dwellings",
+  "Meanings": ["house", "hut", "temple", "palace", "fort", "tower"]
+}
+{
+  "Cluster ID": "CI212",
+  "Domain": "Vehicles / Transport",
+  "Meanings": ["chariot", "cart", "boat", "horse", "path", "bridge"]
+}
+{
+  "Cluster ID": "CI213",
+  "Domain": "Food / Drink",
+  "Meanings": ["rice", "milk", "fruit", "water", "honey", "bread"]
+}
+{
+  "Cluster ID": "CI214",
+  "Domain": "Animals",
+  "Meanings": ["cow", "horse", "elephant", "lion", "dog", "bird"]
+}
+{
+  "Cluster ID": "CI215",
+  "Domain": "Plants / Herbs",
+  "Meanings": ["leaf", "root", "flower", "fruit", "bark", "seed"]
+}
+{
+  "Cluster ID": "CI216",
+  "Domain": "Colors",
+  "Meanings": ["white", "black", "red", "blue", "yellow", "green"]
+}
+{
+  "Cluster ID": "CI217",
+  "Domain": "Numbers",
+  "Meanings": ["one", "two", "three", "four", "five", "ten"]
+}
+{
+  "Cluster ID": "CI218",
+  "Domain": "Time Units",
+  "Meanings": ["day", "night", "month", "year", "hour", "moment"]
+}
+{
+  "Cluster ID": "CI219",
+  "Domain": "Directions",
+  "Meanings": ["east", "west", "north", "south", "up", "down"]
+}
+{
+  "Cluster ID": "CI220",
+  "Domain": "Social Roles",
+  "Meanings": ["king", "queen", "priest", "teacher", "servant", "child"]
+}
+{
+  "Cluster ID": "CI221",
+  "Domain": "Kinship Terms",
+  "Meanings": ["father", "mother", "brother", "sister", "son", "daughter"]
+}
+{
+  "Cluster ID": "CI222",
+  "Domain": "Occupations",
+  "Meanings": ["farmer", "merchant", "warrior", "scribe", "healer", "builder"]
+}
+{
+  "Cluster ID": "CI223",
+  "Domain": "States of Being",
+  "Meanings": ["sleep", "wake", "dream", "death", "birth", "rest"]
+}
+{
+  "Cluster ID": "CI224",
+  "Domain": "Abstract Qualities",
+  "Meanings": ["truth", "beauty", "strength", "wisdom", "peace", "desire"]
+}
+{
+  "Cluster ID": "CI225",
+  "Domain": "Emotions",
+  "Meanings": ["joy", "grief", "anger", "fear", "love", "calm"]
+}
+{
+  "Cluster ID": "CI226",
+  "Domain": "Virtues",
+  "Meanings": ["honor", "courage", "patience", "compassion", "faith", "justice"]
+}
+{
+  "Cluster ID": "CI227",
+  "Domain": "Vices",
+  "Meanings": ["greed", "lust", "envy", "pride", "wrath", "sloth"]
+}
+{
+  "Cluster ID": "CI228",
+  "Domain": "Ritual Items",
+  "Meanings": ["lamp", "incense", "offering", "chant", "vow", "circle"]
+}
+{
+  "Cluster ID": "CI229",
+  "Domain": "Sacred Places",
+  "Meanings": ["altar", "shrine", "temple", "mountain", "river", "cave"]
+}
+{
+  "Cluster ID": "CI230",
+  "Domain": "Sacred Times",
+  "Meanings": ["dawn", "noon", "dusk", "midnight", "solstice", "festival"]
+}
+{
+  "Cluster ID": "CI231",
+  "Domain": "Sacred Sounds",
+  "Meanings": ["om", "bell", "drum", "flute", "chant", "echo"]
+}
+{
+  "Cluster ID": "CI232",
+  "Domain": "Sacred Gestures",
+  "Meanings": ["bow", "raise", "circle", "touch", "seal", "offer"]
+}
+{
+  "Cluster ID": "CI233",
+  "Domain": "Sacred Symbols",
+  "Meanings": ["swastika", "lotus", "chakra", "trident", "knot", "mirror"]
+}
+{
+  "Cluster ID": "CI234",
+  "Domain": "Sacred Animals",
+  "Meanings": ["cow", "elephant", "serpent", "eagle", "lion", "fish"]
+}
+{
+  "Cluster ID": "CI235",
+  "Domain": "Sacred Elements",
+  "Meanings": ["earth", "water", "fire", "air", "ether", "light"]
+}
+{
+  "Cluster ID": "CI236",
+  "Domain": "Sacred Numbers",
+  "Meanings": ["one", "three", "five", "seven", "nine", "twelve"]
+}
+{
+  "Cluster ID": "CI237",
+  "Domain": "Sacred Colors",
+  "Meanings": ["white", "red", "black", "gold", "blue", "green"]
+}
+{
+  "Cluster ID": "CI238",
+  "Domain": "Sacred Directions",
+  "Meanings": ["east", "west", "north", "south", "up", "down"]
+}
+{
+  "Cluster ID": "CI239",
+  "Domain": "Sacred Actions",
+  "Meanings": ["chant", "invoke", "offer", "bind", "purify", "sacrifice"]
+}
+{
+  "Cluster ID": "CI240",
+  "Domain": "Sacred States",
+  "Meanings": ["pure", "impure", "blessed", "cursed", "empty", "full"]
+}
+{
+  "Cluster ID": "CI241",
+  "Domain": "Philosophical Concepts",
+  "Meanings": ["being", "non-being", "truth", "illusion", "cause", "effect"]
+}
+{
+  "Cluster ID": "CI242",
+  "Domain": "States of Consciousness",
+  "Meanings": ["waking", "dreaming", "deep sleep", "awareness", "unconscious", "transcendence"]
+}
+{
+  "Cluster ID": "CI243",
+  "Domain": "Mental Faculties",
+  "Meanings": ["mind", "intellect", "memory", "will", "ego", "intuition"]
+}
+{
+  "Cluster ID": "CI244",
+  "Domain": "Grammatical Roles",
+  "Meanings": ["subject", "object", "agent", "instrument", "location", "goal"]
+}
+{
+  "Cluster ID": "CI245",
+  "Domain": "Gender Categories",
+  "Meanings": ["masculine", "feminine", "neuter", "dual", "plural", "singular"]
+}
+{
+  "Cluster ID": "CI246",
+  "Domain": "Voice / Mood",
+  "Meanings": ["active", "passive", "imperative", "optative", "indicative", "subjunctive"]
+}
+{
+  "Cluster ID": "CI247",
+  "Domain": "Tense / Time",
+  "Meanings": ["present", "past", "future", "perfect", "imperfect", "eternal"]
+}
+{
+  "Cluster ID": "CI248",
+  "Domain": "Causal Relations",
+  "Meanings": ["cause", "reason", "condition", "result", "purpose", "consequence"]
+}
+{
+  "Cluster ID": "CI249",
+  "Domain": "Logical Relations",
+  "Meanings": ["if", "then", "and", "or", "not", "because"]
+}
+{
+  "Cluster ID": "CI250",
+  "Domain": "Spatial Relations",
+  "Meanings": ["above", "below", "within", "outside", "between", "around"]
+}
+{
+  "Cluster ID": "CI251",
+  "Domain": "Temporal Relations",
+  "Meanings": ["before", "after", "during", "while", "until", "since"]
+}
+{
+  "Cluster ID": "CI252",
+  "Domain": "Quantities / Measures",
+  "Meanings": ["many", "few", "some", "none", "all", "each"]
+}
+{
+  "Cluster ID": "CI253",
+  "Domain": "Comparatives / Superlatives",
+  "Meanings": ["more", "less", "better", "worse", "greatest", "least"]
+}
+{
+  "Cluster ID": "CI254",
+  "Domain": "States of Matter",
+  "Meanings": ["solid", "liquid", "gas", "plasma", "ether", "vacuum"]
+}
+{
+  "Cluster ID": "CI255",
+  "Domain": "States of Energy",
+  "Meanings": ["potential", "kinetic", "static", "dynamic", "latent", "radiant"]
+}
+{
+  "Cluster ID": "CI256",
+  "Domain": "States of Emotion",
+  "Meanings": ["joy", "sorrow", "anger", "fear", "love", "peace"]
+}
+{
+  "Cluster ID": "CI257",
+  "Domain": "States of Mind",
+  "Meanings": ["focused", "distracted", "calm", "agitated", "clear", "confused"]
+}
+{
+  "Cluster ID": "CI258",
+  "Domain": "States of Body",
+  "Meanings": ["healthy", "sick", "strong", "weak", "awake", "asleep"]
+}
+{
+  "Cluster ID": "CI259",
+  "Domain": "States of Soul",
+  "Meanings": ["pure", "impure", "liberated", "bound", "enlightened", "ignorant"]
+}
+{
+  "Cluster ID": "CI260",
+  "Domain": "States of Space",
+  "Meanings": ["open", "closed", "full", "empty", "dense", "subtle"]
+}
+{
+  "Cluster ID": "CI261",
+  "Domain": "States of Time",
+  "Meanings": ["linear", "cyclical", "eternal", "momentary", "past", "future"]
+}
+{
+  "Cluster ID": "CI262",
+  "Domain": "States of Sound",
+  "Meanings": ["loud", "soft", "silent", "echoing", "resonant", "dissonant"]
+}
+{
+  "Cluster ID": "CI263",
+  "Domain": "States of Light",
+  "Meanings": ["bright", "dim", "dark", "glowing", "flickering", "radiant"]
+}
+{
+  "Cluster ID": "CI264",
+  "Domain": "States of Movement",
+  "Meanings": ["still", "moving", "fast", "slow", "flowing", "jerky"]
+}
+{
+  "Cluster ID": "CI265",
+  "Domain": "States of Form",
+  "Meanings": ["round", "square", "flat", "curved", "hollow", "solid"]
+}
+{
+  "Cluster ID": "CI266",
+  "Domain": "States of Relation",
+  "Meanings": ["connected", "separated", "merged", "divided", "bound", "free"]
+}
+{
+  "Cluster ID": "CI267",
+  "Domain": "States of Ritual",
+  "Meanings": ["initiated", "uninitiated", "purified", "polluted", "active", "complete"]
+}
+{
+  "Cluster ID": "CI268",
+  "Domain": "States of Knowledge",
+  "Meanings": ["known", "unknown", "remembered", "forgotten", "revealed", "hidden"]
+}
+{
+  "Cluster ID": "CI269",
+  "Domain": "States of Identity",
+  "Meanings": ["self", "other", "same", "different", "masked", "true"]
+}
+{
+  "Cluster ID": "CI270",
+  "Domain": "States of Power",
+  "Meanings": ["strong", "weak", "dominant", "submissive", "active", "passive"]
+}
+{
+  "Cluster ID": "CI271",
+  "Domain": "States of Intention",
+  "Meanings": ["willing", "unwilling", "intentional", "accidental", "focused", "scattered"]
+}
+{
+  "Cluster ID": "CI272",
+  "Domain": "States of Truth",
+  "Meanings": ["true", "false", "real", "illusory", "authentic", "deceptive"]
+}
+{
+  "Cluster ID": "CI273",
+  "Domain": "States of Silence",
+  "Meanings": ["quiet", "mute", "still", "peaceful", "hidden", "contained"]
+}
+{
+  "Cluster ID": "CI274",
+  "Domain": "States of Sound",
+  "Meanings": ["spoken", "sung", "chanted", "echoed", "heard", "unheard"]
+}
+{
+  "Cluster ID": "CI275",
+  "Domain": "States of Breath",
+  "Meanings": ["inhaled", "exhaled", "held", "released", "flowing", "stopped"]
+}
+{
+  "Cluster ID": "CI276",
+  "Domain": "States of Fire",
+  "Meanings": ["lit", "burning", "smoldering", "extinguished", "glowing", "flaring"]
+}
+{
+  "Cluster ID": "CI277",
+  "Domain": "States of Water",
+  "Meanings": ["still", "flowing", "rippling", "flooded", "dry", "immersed"]
+}
+{
+  "Cluster ID": "CI278",
+  "Domain": "States of Earth",
+  "Meanings": ["solid", "cracked", "fertile", "barren", "wet", "dry"]
+}
+{
+  "Cluster ID": "CI279",
+  "Domain": "States of Air",
+  "Meanings": ["calm", "windy", "stormy", "breezy", "whirling", "still"]
+}
+{
+  "Cluster ID": "CI280",
+  "Domain": "States of Ether",
+  "Meanings": ["connected", "expanded", "vibrating", "merged", "dissolved", "transcendent"]
+}
+{
+  "Cluster ID": "CI281",
+  "Domain": "Compound Concepts",
+  "Meanings": ["self-knowledge", "world-order", "soul-path", "mind-body", "truth-light", "ritual-time"]
+}
+{
+  "Cluster ID": "CI282",
+  "Domain": "Philosophical Dualities",
+  "Meanings": ["prakriti/purusha", "sat/asat", "avidya/vidya", "karma/jnana", "maya/brahman", "raga/dvesha"]
+}
+{
+  "Cluster ID": "CI283",
+  "Domain": "States of Liberation",
+  "Meanings": ["moksha", "nirvana", "kaivalya", "samadhi", "turiya", "jivanmukti"]
+}
+{
+  "Cluster ID": "CI284",
+  "Domain": "States of Bondage",
+  "Meanings": ["samsara", "avidya", "karma", "duhkha", "maya", "attachment"]
+}
+{
+  "Cluster ID": "CI285",
+  "Domain": "Types of Knowledge",
+  "Meanings": ["shruti", "smriti", "vidya", "jnana", "buddhi", "pramana"]
+}
+{
+  "Cluster ID": "CI286",
+  "Domain": "Types of Speech",
+  "Meanings": ["vak", "mantra", "shloka", "sutra", "vachana", "stotra"]
+}
+{
+  "Cluster ID": "CI287",
+  "Domain": "Types of Texts",
+  "Meanings": ["veda", "upanishad", "purana", "smriti", "sutra", "shastra"]
+}
+{
+  "Cluster ID": "CI288",
+  "Domain": "Types of Rituals",
+  "Meanings": ["yajna", "homa", "puja", "vrata", "dana", "tapas"]
+}
+{
+  "Cluster ID": "CI289",
+  "Domain": "Types of Offerings",
+  "Meanings": ["ghee", "grain", "flower", "water", "incense", "fire"]
+}
+{
+  "Cluster ID": "CI290",
+  "Domain": "Types of Deities",
+  "Meanings": ["agni", "indra", "varuna", "vishnu", "shiva", "devi"]
+}
+{
+  "Cluster ID": "CI291",
+  "Domain": "Types of Beings",
+  "Meanings": ["manushya", "deva", "asura", "rakshasa", "yaksha", "rishi"]
+}
+{
+  "Cluster ID": "CI292",
+  "Domain": "Types of Worlds",
+  "Meanings": ["bhur", "bhuvah", "svah", "maha", "jana", "tapa", "satya"]
+}
+{
+  "Cluster ID": "CI293",
+  "Domain": "Types of Time",
+  "Meanings": ["kalpa", "yuga", "manvantara", "muhurta", "ksana", "samaya"]
+}
+{
+  "Cluster ID": "CI294",
+  "Domain": "Types of Fire",
+  "Meanings": ["agni", "vahni", "jatharagni", "tapagni", "yajna-agni", "kundagni"]
+}
+{
+  "Cluster ID": "CI295",
+  "Domain": "Types of Water",
+  "Meanings": ["jala", "samudra", "nadi", "sarasa", "tirtha", "ambhas"]
+}
+{
+  "Cluster ID": "CI296",
+  "Domain": "Types of Earth",
+  "Meanings": ["bhumi", "prithvi", "kshetra", "giri", "parvata", "kshetra"]
+}
+{
+  "Cluster ID": "CI297",
+  "Domain": "Types of Space",
+  "Meanings": ["akasha", "vyoma", "dish", "antara", "bahya", "hridaya-akasha"]
+}
+{
+  "Cluster ID": "CI298",
+  "Domain": "Types of Mind",
+  "Meanings": ["manas", "buddhi", "ahamkara", "chitta", "smriti", "sankalpa"]
+}
+{
+  "Cluster ID": "CI299",
+  "Domain": "Types of Breath",
+  "Meanings": ["prana", "apana", "vyana", "udana", "samana", "nadi"]
+}
+{
+  "Cluster ID": "CI300",
+  "Domain": "Types of Sound",
+  "Meanings": ["shabda", "nada", "dhvani", "svara", "mantra", "anahata"]
+}
+{
+  "Cluster ID": "CI301",
+  "Domain": "Types of Light",
+  "Meanings": ["jyoti", "tejas", "prakasha", "chandra", "surya", "agni"]
+}
+{
+  "Cluster ID": "CI302",
+  "Domain": "Types of Darkness",
+  "Meanings": ["tamas", "andhakara", "maya", "avidya", "shadow", "night"]
+}
+{
+  "Cluster ID": "CI303",
+  "Domain": "Types of Movement",
+  "Meanings": ["gati", "chalana", "karma", "pravritti", "parikrama", "parivartana"]
+}
+{
+  "Cluster ID": "CI304",
+  "Domain": "Types of Stillness",
+  "Meanings": ["sthiti", "shanti", "samadhi", "nirodha", "upashama", "niravata"]
+}
+{
+  "Cluster ID": "CI305",
+  "Domain": "Types of Boundaries",
+  "Meanings": ["rekha", "maryada", "lakshmana", "paridhi", "setu", "antarala"]
+}
+{
+  "Cluster ID": "CI306",
+  "Domain": "Types of Centers",
+  "Meanings": ["bindu", "hridaya", "chakra", "madhya", "axis", "yoni"]
+}
+{
+  "Cluster ID": "CI307",
+  "Domain": "Types of Knots",
+  "Meanings": ["granthi", "brahmagranthi", "hridaya-granthi", "knot", "bandha", "sangha"]
+}
+{
+  "Cluster ID": "CI308",
+  "Domain": "Types of Circles",
+  "Meanings": ["mandala", "chakra", "vrtta", "parikrama", "samsara", "yoni"]
+}
+{
+  "Cluster ID": "CI309",
+  "Domain": "Types of Paths",
+  "Meanings": ["marga", "pantha", "adhva", "gati", "yatra", "sadhana"]
+}
+{
+  "Cluster ID": "CI310",
+  "Domain": "Types of Truth",
+  "Meanings": ["satya", "rita", "dharma", "tattva", "paramartha", "siddhanta"]
+}
+{
+  "Cluster ID": "CI311",
+  "Domain": "Types of Illusion",
+  "Meanings": ["maya", "mithya", "bhranti", "chaya", "abhava", "viparyaya"]
+}
+{
+  "Cluster ID": "CI312",
+  "Domain": "Types of Names",
+  "Meanings": ["nama", "rupa", "lakshana", "samjna", "abhidha", "vachaka"]
+}
+{
+  "Cluster ID": "CI313",
+  "Domain": "Types of Forms",
+  "Meanings": ["rupa", "murti", "vigraha", "akriti", "svarupa", "pratima"]
+}
+{
+  "Cluster ID": "CI314",
+  "Domain": "Types of Power",
+  "Meanings": ["shakti", "bala", "tejas", "virya", "ojas", "prabhava"]
+}
+{
+  "Cluster ID": "CI315",
+  "Domain": "Types of Energy",
+  "Meanings": ["prana", "agni", "shakti", "chaitanya", "tapas", "spanda"]
+}
+{
+  "Cluster ID": "CI316",
+  "Domain": "Types of Offering",
+  "Meanings": ["dana", "arpana", "samarpana", "yajna", "homa", "tyaga"]
+}
+{
+  "Cluster ID": "CI317",
+  "Domain": "Types of Union",
+  "Meanings": ["yoga", "samyoga", "sangama", "milana", "samavesha", "samyama"]
+}
+{
+  "Cluster ID": "CI318",
+  "Domain": "Types of Separation",
+  "Meanings": ["viyoga", "tyaga", "vislesha", "viraha", "vichheda", "bheda"]
+}
+{
+  "Cluster ID": "CI319",
+  "Domain": "Types of Thresholds",
+  "Meanings": ["setu", "dvara", "pravesha", "nirgama", "sankrama", "antarala"]
+}
+{
+  "Cluster ID": "CI320",
+  "Domain": "Types of Recursion",
+  "Meanings": ["punaravrtti", "chakra", "mandala", "parikrama", "punarjanma", "samsara"]
+}
+{
+  "Cluster ID": "CI321",
+  "Domain": "Sensory Actions",
+  "Meanings": ["see", "hear", "smell", "taste", "touch", "feel"]
+}
+{
+  "Cluster ID": "CI322",
+  "Domain": "Mental Actions",
+  "Meanings": ["think", "imagine", "remember", "forget", "decide", "intend"]
+}
+{
+  "Cluster ID": "CI323",
+  "Domain": "Speech Actions",
+  "Meanings": ["speak", "say", "ask", "answer", "chant", "declare"]
+}
+{
+  "Cluster ID": "CI324",
+  "Domain": "Movement Actions",
+  "Meanings": ["walk", "run", "jump", "fly", "crawl", "climb"]
+}
+{
+  "Cluster ID": "CI325",
+  "Domain": "Creation Actions",
+  "Meanings": ["make", "build", "form", "compose", "generate", "shape"]
+}
+{
+  "Cluster ID": "CI326",
+  "Domain": "Destruction Actions",
+  "Meanings": ["break", "shatter", "destroy", "erase", "cut", "burn"]
+}
+{
+  "Cluster ID": "CI327",
+  "Domain": "Offering Actions",
+  "Meanings": ["give", "offer", "donate", "present", "sacrifice", "extend"]
+}
+{
+  "Cluster ID": "CI328",
+  "Domain": "Receiving Actions",
+  "Meanings": ["take", "accept", "grasp", "hold", "collect", "inherit"]
+}
+{
+  "Cluster ID": "CI329",
+  "Domain": "Binding Actions",
+  "Meanings": ["tie", "bind", "weave", "connect", "fasten", "seal"]
+}
+{
+  "Cluster ID": "CI330",
+  "Domain": "Releasing Actions",
+  "Meanings": ["untie", "free", "scatter", "dissolve", "break", "open"]
+}
+{
+  "Cluster ID": "CI331",
+  "Domain": "Transformative Actions",
+  "Meanings": ["change", "convert", "mutate", "shift", "evolve", "transfigure"]
+}
+{
+  "Cluster ID": "CI332",
+  "Domain": "Protective Actions",
+  "Meanings": ["guard", "shield", "defend", "cover", "hide", "preserve"]
+}
+{
+  "Cluster ID": "CI333",
+  "Domain": "Aggressive Actions",
+  "Meanings": ["attack", "strike", "hit", "fight", "injure", "kill"]
+}
+{
+  "Cluster ID": "CI334",
+  "Domain": "Healing Actions",
+  "Meanings": ["heal", "soothe", "repair", "restore", "cleanse", "revive"]
+}
+{
+  "Cluster ID": "CI335",
+  "Domain": "Emotional Actions",
+  "Meanings": ["love", "hate", "desire", "fear", "grieve", "rejoice"]
+}
+{
+  "Cluster ID": "CI336",
+  "Domain": "Temporal Actions",
+  "Meanings": ["begin", "end", "continue", "pause", "repeat", "delay"]
+}
+{
+  "Cluster ID": "CI337",
+  "Domain": "Spatial Actions",
+  "Meanings": ["enter", "exit", "approach", "depart", "cross", "return"]
+}
+{
+  "Cluster ID": "CI338",
+  "Domain": "Judgment Actions",
+  "Meanings": ["judge", "measure", "compare", "evaluate", "rank", "weigh"]
+}
+{
+  "Cluster ID": "CI339",
+  "Domain": "Learning Actions",
+  "Meanings": ["learn", "study", "practice", "train", "absorb", "recite"]
+}
+{
+  "Cluster ID": "CI340",
+  "Domain": "Teaching Actions",
+  "Meanings": ["teach", "explain", "instruct", "guide", "demonstrate", "clarify"]
+}
+{
+  "Cluster ID": "CI341",
+  "Domain": "Sensory Emissions",
+  "Meanings": ["shine", "glow", "sound", "echo", "vibrate", "radiate"]
+}
+{
+  "Cluster ID": "CI342",
+  "Domain": "Breath Actions",
+  "Meanings": ["inhale", "exhale", "hold breath", "release breath", "pant", "sigh"]
+}
+{
+  "Cluster ID": "CI343",
+  "Domain": "Sleep Actions",
+  "Meanings": ["sleep", "dream", "doze", "wake", "rise", "lie down"]
+}
+{
+  "Cluster ID": "CI344",
+  "Domain": "Eating Actions",
+  "Meanings": ["eat", "drink", "taste", "swallow", "chew", "digest"]
+}
+{
+  "Cluster ID": "CI345",
+  "Domain": "Cleaning Actions",
+  "Meanings": ["wash", "wipe", "clean", "purify", "rinse", "scrub"]
+}
+{
+  "Cluster ID": "CI346",
+  "Domain": "Construction Actions",
+  "Meanings": ["stack", "pile", "join", "assemble", "erect", "fix"]
+}
+{
+  "Cluster ID": "CI347",
+  "Domain": "Descent Actions",
+  "Meanings": ["fall", "drop", "sink", "descend", "collapse", "lower"]
+}
+{
+  "Cluster ID": "CI348",
+  "Domain": "Ascension Actions",
+  "Meanings": ["rise", "lift", "climb", "ascend", "elevate", "float"]
+}
+{
+  "Cluster ID": "CI349",
+  "Domain": "Conflict Actions",
+  "Meanings": ["argue", "debate", "resist", "oppose", "challenge", "compete"]
+}
+{
+  "Cluster ID": "CI350",
+  "Domain": "Agreement Actions",
+  "Meanings": ["agree", "consent", "unite", "accept", "align", "concur"]
+}
+{
+  "Cluster ID": "CI351",
+  "Domain": "Sensory Reactions",
+  "Meanings": ["flinch", "startle", "shiver", "sweat", "cry", "laugh"]
+}
+{
+  "Cluster ID": "CI352",
+  "Domain": "Physical Strain",
+  "Meanings": ["strain", "stretch", "bend", "twist", "pull", "push"]
+}
+{
+  "Cluster ID": "CI353",
+  "Domain": "Fluid Actions",
+  "Meanings": ["flow", "drip", "spill", "leak", "pour", "immerse"]
+}
+{
+  "Cluster ID": "CI354",
+  "Domain": "Fire Actions",
+  "Meanings": ["burn", "ignite", "smolder", "flare", "glow", "consume"]
+}
+{
+  "Cluster ID": "CI355",
+  "Domain": "Wind Actions",
+  "Meanings": ["blow", "gust", "scatter", "whirl", "sweep", "rush"]
+}
+{
+  "Cluster ID": "CI356",
+  "Domain": "Earth Actions",
+  "Meanings": ["dig", "plant", "bury", "root", "till", "crack"]
+}
+{
+  "Cluster ID": "CI357",
+  "Domain": "Space Actions",
+  "Meanings": ["expand", "contract", "merge", "separate", "dissolve", "connect"]
+}
+{
+  "Cluster ID": "CI358",
+  "Domain": "Ritual Actions",
+  "Meanings": ["invoke", "chant", "offer", "bind", "purify", "seal"]
+}
+{
+  "Cluster ID": "CI359",
+  "Domain": "Symbolic Actions",
+  "Meanings": ["mark", "name", "gesture", "signal", "represent", "encode"]
+}
+{
+  "Cluster ID": "CI360",
+  "Domain": "Recursive Actions",
+  "Meanings": ["repeat", "loop", "cycle", "return", "reflect", "recur"]
+}

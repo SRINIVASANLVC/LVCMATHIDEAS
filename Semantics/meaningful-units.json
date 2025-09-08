@@ -1,0 +1,20 @@
+{
+  "MU ID": "MU00001",
+  "IPA": "ˈkaː",
+  "Semantic Root": "Radiance / Emergence",
+  "SemanticUnit": {
+    "Start": { "Location": "Velar", "Direction": "Open" },
+    "Middle1": null,
+    "Middle2": null,
+    "End": { "Location": "∅", "Direction": "∅" },
+    "Influence": "Semantic expansion from core outward; initiatory breath"
+  },
+  "Languages Validated": ["Sanskrit", "Tamil", "Greek", "Latin"],
+  "SCI Tags Removed": ["ˈtaː" → SCI001 (Agentive Suffix)],
+  "CSL Tag": null,
+  "Cross-Language Cognates": ["καίω (Greek)", "clarus (Latin)", "kaṭṭi (Tamil)", "kānti (Sanskrit)"],
+  "Semantic Polarity": "Outward / Expansive",
+  "Usage Domains": ["Light", "Creation", "Naming", "Invocation"],
+  "Cross-Disciplinary Relevance": ["Philosophy", "Ritual Studies", "Poetics", "Mythology"],
+  "Audit Status": "Validated across 4 languages; structurally clean"
+}
